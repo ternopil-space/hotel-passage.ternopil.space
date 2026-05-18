@@ -1,0 +1,158 @@
+<main class="mx-auto max-w-[var(--container)] px-3 pb-8 pt-3 sm:px-4 sm:pb-10">
+	<section
+		class="socials-shell overflow-hidden rounded-[1.4rem] border border-[var(--c-border)] bg-[var(--c-bg-secondary)] shadow-[var(--shadow-sm)]"
+	>
+		<div class="border-b border-[var(--c-border)] px-4 py-5 sm:px-6 sm:py-6">
+			<p class="text-[12px] font-semibold uppercase tracking-[0.18em] text-[var(--c-secondary)]">
+				<span [translate]="'Contacts'">{{ 'Contacts' }}</span>
+			</p>
+			<h1 class="mt-2 text-[1.8rem] font-semibold leading-9 text-[var(--c-text-secondary)]">
+				<span [translate]="'Contact Hotel «Passage» in Ternopil'">{{
+					'Contact Hotel «Passage» in Ternopil'
+				}}</span>
+			</h1>
+			<p class="mt-2 max-w-[42rem] text-sm leading-6 text-[var(--c-text-muted)]">
+				<span
+					[translate]="'Book by phone, request current room availability, or find the hotel near Ternopil central bus station at Torgovytsia / Zhyvova Street 7.'"
+					>{{
+						'Book by phone, request current room availability, or find the hotel near Ternopil central bus station at Torgovytsia / Zhyvova Street 7.'
+					}}</span
+				>
+			</p>
+		</div>
+
+		<div class="grid gap-4 p-4 lg:grid-cols-[minmax(0,1fr)_18rem_minmax(0,1fr)] lg:p-6">
+			<div class="space-y-4">
+				<a
+					class="contact-card block rounded-[1.1rem] border border-[var(--c-border)] bg-[var(--c-bg-primary)] p-4 shadow-[var(--shadow-sm)] transition-transform duration-200 hover:-translate-y-0.5"
+					href="tel:+380675101504"
+					translate
+					[translate]="{ ariaLabel: 'Call Hotel Passage' }"
+				>
+					<div class="flex items-start gap-4">
+						<span class="icon-wrap mt-1 inline-flex h-12 w-12 shrink-0 items-center justify-center rounded-full text-xl font-semibold" aria-hidden="true">☎</span>
+						<div class="min-w-0">
+							<p class="text-[12px] font-semibold uppercase tracking-[0.18em] text-[var(--c-secondary)]">
+								<span [translate]="'Primary phone'">{{ 'Primary phone' }}</span>
+							</p>
+							<p class="mt-2 text-lg font-semibold text-[var(--c-text-secondary)]">
+								+38 067 510-15-04
+							</p>
+							<p class="mt-2 text-sm leading-6 text-[var(--c-text-muted)]">
+								<span [translate]="'Use this number to book by phone or request current availability.'">{{
+									'Use this number to book by phone or request current availability.'
+								}}</span>
+							</p>
+						</div>
+					</div>
+				</a>
+
+				<div
+					class="contact-card rounded-[1.1rem] border border-[var(--c-border)] bg-[var(--c-bg-primary)] p-4 shadow-[var(--shadow-sm)]"
+				>
+					<p class="text-[12px] font-semibold uppercase tracking-[0.18em] text-[var(--c-secondary)]">
+						<span [translate]="'Alternate listing'">{{ 'Alternate listing' }}</span>
+					</p>
+					<p class="mt-2 text-lg font-semibold text-[var(--c-text-secondary)]">
+						+38 096 947-76-72
+					</p>
+					<p class="mt-2 text-sm leading-6 text-[var(--c-text-muted)]">
+						<span
+							[translate]="'This number appears in a local directory listing and should be verified by the client before treating it as official.'"
+							>{{
+								'This number appears in a local directory listing and should be verified by the client before treating it as official.'
+							}}</span
+						>
+					</p>
+				</div>
+
+				<a
+					class="contact-card block rounded-[1.1rem] border border-[var(--c-border)] bg-[var(--c-bg-primary)] p-4 shadow-[var(--shadow-sm)] transition-transform duration-200 hover:-translate-y-0.5"
+					href="https://www.google.com/maps/search/?api=1&query=Torgovytsia%207%20Ternopil%20Hotel%20Passage"
+					target="_blank"
+					rel="noreferrer nofollow"
+					translate
+					[translate]="{ ariaLabel: 'Open Hotel Passage address on the map' }"
+				>
+					<div class="flex items-start gap-4">
+						<span class="icon-wrap mt-1 inline-flex h-12 w-12 shrink-0 items-center justify-center rounded-full text-xl font-semibold" aria-hidden="true">⌖</span>
+						<div class="min-w-0">
+							<p class="text-[12px] font-semibold uppercase tracking-[0.18em] text-[var(--c-secondary)]">
+								<span [translate]="'Address'">{{ 'Address' }}</span>
+							</p>
+							<p class="mt-2 text-lg font-semibold leading-7 text-[var(--c-text-secondary)]">
+								Torgovytsia / Anatoliia Zhyvova / Zhyvova Street 7, Ternopil, Ukraine
+							</p>
+							<p class="mt-2 text-sm leading-6 text-[var(--c-text-muted)]">
+								<span [translate]="'Very close to the central bus station; public listings place the railway station and city center around 1.5 km away.'">{{
+									'Very close to the central bus station; public listings place the railway station and city center around 1.5 km away.'
+								}}</span>
+							</p>
+						</div>
+					</div>
+				</a>
+			</div>
+
+			<div
+				class="logo-panel relative flex min-h-[18rem] items-center justify-center rounded-[1.25rem] border border-[var(--c-border)] bg-[var(--c-bg-primary)] p-6 shadow-[var(--shadow-sm)]"
+			>
+				<div class="relative text-center">
+					<img
+						class="mx-auto h-auto w-[11rem] drop-shadow-[0_14px_30px_rgba(0,0,0,0.16)] sm:w-[12.5rem]"
+						ngSrc="logo.webp"
+						alt="Hotel Passage"
+						width="720"
+						height="720"
+						priority
+					/>
+					<p class="mt-4 text-[12px] font-semibold uppercase tracking-[0.18em] text-[var(--c-secondary)]">
+						Hotel «Passage»
+					</p>
+				</div>
+			</div>
+
+			<div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-1">
+				<div class="contact-card rounded-[1.1rem] border border-[var(--c-border)] bg-[var(--c-bg-primary)] p-4 shadow-[var(--shadow-sm)]">
+					<p class="text-sm font-semibold text-[var(--c-text-secondary)]">
+						<span [translate]="'Reception'">{{ 'Reception' }}</span>
+					</p>
+					<p class="mt-2 text-sm leading-6 text-[var(--c-text-muted)]">
+						<span [translate]="'24/7 reception is listed by public sources.'">{{
+							'24/7 reception is listed by public sources.'
+						}}</span>
+					</p>
+				</div>
+
+				<div class="contact-card rounded-[1.1rem] border border-[var(--c-border)] bg-[var(--c-bg-primary)] p-4 shadow-[var(--shadow-sm)]">
+					<p class="text-sm font-semibold text-[var(--c-text-secondary)]">
+						<span [translate]="'Check-in / check-out'">{{ 'Check-in / check-out' }}</span>
+					</p>
+					<p class="mt-2 text-sm leading-6 text-[var(--c-text-muted)]">
+						<span [translate]="'Check-in from 14:00 to 24:00. Check-out until 12:00.'">{{
+							'Check-in from 14:00 to 24:00. Check-out until 12:00.'
+						}}</span>
+					</p>
+				</div>
+
+				<a
+					class="contact-card block rounded-[1.1rem] border border-[var(--c-border)] bg-[var(--c-bg-primary)] p-4 shadow-[var(--shadow-sm)] transition-transform duration-200 hover:-translate-y-0.5"
+					href="https://www.instagram.com/hotel_passage/"
+					target="_blank"
+					rel="noreferrer nofollow"
+					translate
+					[translate]="{ ariaLabel: 'Open Hotel Passage Instagram' }"
+				>
+					<p class="text-sm font-semibold text-[var(--c-text-secondary)]">Instagram</p>
+					<p class="mt-2 text-sm leading-6 text-[var(--c-text-muted)]">
+						@hotel_passage
+					</p>
+					<p class="mt-2 text-xs leading-5 text-[var(--c-text-muted)]">
+						<span [translate]="'Public search listing; verify with the client before treating as official.'">{{
+							'Public search listing; verify with the client before treating as official.'
+						}}</span>
+					</p>
+				</a>
+			</div>
+		</div>
+	</section>
+</main>

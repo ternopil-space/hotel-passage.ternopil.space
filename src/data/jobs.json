@@ -1,0 +1,128 @@
+[
+	{
+		"slug": "front-desk-receptionist",
+		"title": "Front desk receptionist",
+		"department": "Hotel reception",
+		"summary": "Guest-facing reception role focused on calls, arrivals, check-in, check-out and practical room information.",
+		"location": "Ternopil, Ukraine",
+		"employmentType": "Full-time / shift schedule",
+		"schedule": "Shift schedule",
+		"salary": "Confirm with hotel management",
+		"experience": "Hospitality experience preferred",
+		"level": "Middle",
+		"workFormat": "On-site",
+		"applyUrl": "tel:+380675101504",
+		"applyLabel": "Call the hotel",
+		"contactEmail": "",
+		"contactPhone": "+38 067 510-15-04",
+		"responsibilities": [
+			"Welcome guests and answer phone inquiries",
+			"Support check-in from 14:00 and check-out until 12:00",
+			"Explain room categories, availability and hotel rules",
+			"Coordinate with housekeeping"
+		],
+		"requirements": [
+			"Clear Ukrainian communication",
+			"Basic computer and phone skills",
+			"Calm guest-service attitude",
+			"Attention to booking details"
+		],
+		"benefits": [
+			"Central Ternopil location",
+			"Practical hotel experience",
+			"Team-based shift work"
+		],
+		"body": [
+			"This page is a hotel-context vacancy template for Passage Hotel. Confirm whether the role is currently open before publishing it as active hiring."
+		],
+		"highlights": [
+			"Reception and calls",
+			"Check-in and check-out",
+			"Guest support"
+		]
+	},
+	{
+		"slug": "housekeeping-attendant",
+		"title": "Housekeeping attendant",
+		"department": "Housekeeping",
+		"summary": "Room cleanliness role supporting daily housekeeping and guest comfort in a compact city hotel.",
+		"location": "Ternopil, Ukraine",
+		"employmentType": "Full-time / part-time",
+		"schedule": "Shift schedule",
+		"salary": "Confirm with hotel management",
+		"experience": "Experience preferred",
+		"level": "Junior / Middle",
+		"workFormat": "On-site",
+		"applyUrl": "tel:+380675101504",
+		"applyLabel": "Call the hotel",
+		"contactEmail": "",
+		"contactPhone": "+38 067 510-15-04",
+		"responsibilities": [
+			"Prepare rooms for arrivals",
+			"Support daily housekeeping",
+			"Report maintenance or supply needs",
+			"Keep shared areas tidy"
+		],
+		"requirements": [
+			"Attention to cleanliness",
+			"Reliability and punctuality",
+			"Respect for guest privacy",
+			"Ability to follow room standards"
+		],
+		"benefits": [
+			"Stable hotel workflow",
+			"Central location",
+			"Team support"
+		],
+		"body": [
+			"Housekeeping is central to the clean, practical stay positioning of Hotel «Passage». Confirm hiring status before publishing."
+		],
+		"highlights": [
+			"Room preparation",
+			"Daily cleaning",
+			"Guest comfort"
+		]
+	},
+	{
+		"slug": "hotel-support-staff",
+		"title": "Hotel support staff",
+		"department": "Guest service",
+		"summary": "Flexible on-site support role for guest requests, basic coordination and practical hotel operations.",
+		"location": "Ternopil, Ukraine",
+		"employmentType": "By agreement",
+		"schedule": "By agreement",
+		"salary": "Confirm with hotel management",
+		"experience": "Hospitality or service experience is useful",
+		"level": "Junior / Middle",
+		"workFormat": "On-site",
+		"applyUrl": "tel:+380675101504",
+		"applyLabel": "Call the hotel",
+		"contactEmail": "",
+		"contactPhone": "+38 067 510-15-04",
+		"responsibilities": [
+			"Support reception and housekeeping when needed",
+			"Help guests with practical questions",
+			"Keep service areas orderly",
+			"Escalate maintenance or security questions"
+		],
+		"requirements": [
+			"Polite communication",
+			"Responsible attitude",
+			"Readiness for on-site work",
+			"Basic hospitality awareness"
+		],
+		"benefits": [
+			"Practical hotel experience",
+			"Guest communication practice",
+			"Central Ternopil workplace"
+		],
+		"body": [
+			"Use this role only as a general hotel-team page unless the client confirms an active vacancy."
+		],
+		"highlights": [
+			"Guest support",
+			"On-site operations",
+			"Team coordination"
+		]
+	}
+]

@@ -1,0 +1,115 @@
+:root {
+	color-scheme: light;
+
+	/* brand / actions */
+	--c-primary: #8f6a3f;
+	--c-primary-hover: #765632;
+	--c-secondary: #2f6f73;
+	--c-secondary-hover: #265b5f;
+
+	/* surfaces */
+	--c-bg-primary: #f7f2ea;
+	--c-bg-secondary: #ffffff;
+	--c-bg-tertiary: #eee4d7;
+
+	/* content */
+	--c-text-primary: #655b50;
+	--c-text-secondary: #211b16;
+	--c-text-muted: #86796b;
+	--c-placeholder: #86796bb3;
+
+	/* borders & elevation */
+	--c-border: #dfd2c1;
+	--shadow-sm: 0 1px 2px rgba(33, 27, 22, 0.08);
+	--shadow-md: 0 10px 30px rgba(33, 27, 22, 0.14);
+
+	/* typography */
+	--ff-base: 'Poppins', system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+	--fs: 16px;
+	--letter-spacing: 0;
+
+	/* radius */
+	--radius: 8px;
+	--radius-card: 12px;
+	--radius-btn: 999px;
+
+	/* spacing */
+	--sp-0: 0px;
+	--sp-1: 4px;
+	--sp-2: 8px;
+	--sp-3: 12px;
+	--sp-4: 16px;
+	--sp-5: 20px;
+	--sp-6: 24px;
+	--sp-7: 32px;
+	--sp-8: 40px;
+	--sp-10: 48px;
+	--sp-12: 56px;
+	--sp-16: 72px;
+	--sp-20: 96px;
+
+	/* layout */
+	--container: 1210px;
+	--gutter: 10px;
+
+	/* motion */
+	--easing: cubic-bezier(0.25, 0.8, 0.25, 1);
+	--motion-fast: 0.15s;
+	--motion: 0.25s;
+	--motion-slow: 0.4s;
+
+	/* focus */
+	--focus-ring: 0 0 0 3px rgba(47, 111, 115, 0.24);
+}
+
+html[data-mode='dark'] {
+	color-scheme: dark;
+
+	/* brand / actions */
+	--c-primary: #d7b888;
+	--c-primary-hover: #e5c99b;
+	--c-secondary: #79bec0;
+	--c-secondary-hover: #94d1d2;
+
+	/* surfaces */
+	--c-bg-primary: #17130f;
+	--c-bg-secondary: #231c16;
+	--c-bg-tertiary: #30271f;
+
+	/* borders & elevation */
+	--c-border: #493c30;
+	--shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.35);
+	--shadow-md: 0 10px 30px rgba(0, 0, 0, 0.48);
+
+	/* content */
+	--c-text-primary: #dfd2c1;
+	--c-text-secondary: #fff8ef;
+	--c-text-muted: #b9aa98;
+	--c-placeholder: #b9aa98cc;
+
+	/* focus */
+	--focus-ring: 0 0 0 3px rgba(121, 190, 192, 0.3);
+}
+
+html[data-density='compact'] {
+	--sp-1: 2px;
+	--sp-2: 6px;
+	--sp-3: 10px;
+	--sp-4: 14px;
+	--sp-5: 18px;
+	--sp-6: 22px;
+	--sp-7: 28px;
+	--sp-8: 36px;
+	--sp-10: 42px;
+	--sp-12: 48px;
+	--sp-16: 64px;
+	--sp-20: 84px;
+
+	--gutter: 8px;
+}
+
+html[data-radius='square'] {
+	--radius: 0px;
+	--radius-card: 0px;
+	--radius-btn: 0px;
+}

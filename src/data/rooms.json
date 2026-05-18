@@ -1,0 +1,165 @@
+[
+	{
+		"slug": "standard-double-attic",
+		"name": "Standard Double Attic",
+		"description": "A compact double attic room for one or two guests who need a practical overnight stay near Ternopil central bus station.",
+		"price": "Verify current rate by phone",
+		"image": "/room/standard-double-attic.webp",
+		"imageAlt": "Standard double attic room at Hotel Passage",
+		"size": "Double attic room",
+		"occupancy": "Up to 2 guests",
+		"bed": "1 double bed",
+		"bathroom": "Private bathroom with shower",
+		"body": [
+			"This category suits transit travelers, couples and solo guests who want a straightforward city-hotel room close to the bus station.",
+			"Public room listings mention a private bathroom, air conditioning, flat-screen TV and electric kettle. Please confirm current availability and exact rate before arrival."
+		],
+		"amenities": [
+			"Private bathroom with shower",
+			"Air conditioning",
+			"Flat-screen TV",
+			"Electric kettle",
+			"Wi-Fi",
+			"Heating",
+			"Daily housekeeping",
+			"24/7 reception"
+		]
+	},
+	{
+		"slug": "deluxe-double",
+		"name": "De luxe Double",
+		"description": "A more comfortable double room option for guests who want extra ease during a business trip or short stay in Ternopil.",
+		"price": "Verify current rate by phone",
+		"image": "/room/deluxe-double.webp",
+		"imageAlt": "Deluxe double room at Hotel Passage",
+		"size": "Double room",
+		"occupancy": "Up to 2 guests",
+		"bed": "1 double bed",
+		"bathroom": "Private bathroom with shower",
+		"body": [
+			"The deluxe double category is positioned for a calmer stay with the core comforts expected from Passage Hotel.",
+			"Use it for short city stays, business travel or a comfortable stop between routes through Ternopil."
+		],
+		"amenities": [
+			"Private bathroom with shower",
+			"Air conditioning",
+			"Flat-screen TV",
+			"Electric kettle",
+			"Wi-Fi",
+			"Heating",
+			"Daily housekeeping",
+			"24/7 reception",
+			"Work desk where applicable"
+		]
+	},
+	{
+		"slug": "standard-double-twin",
+		"name": "Standard Double Twin",
+		"description": "Twin room category for two guests who prefer separate beds and simple hotel comfort near the transport hub.",
+		"price": "Verify current rate by phone",
+		"image": "/room/standard-double-twin.webp",
+		"imageAlt": "Standard twin room at Hotel Passage",
+		"size": "Twin room",
+		"occupancy": "Up to 2 guests",
+		"bed": "2 single beds",
+		"bathroom": "Private bathroom with shower",
+		"body": [
+			"The twin setup is useful for colleagues, friends, relatives or guests arriving in Ternopil for a practical short stay.",
+			"Public listings describe twin rooms with private bathroom, air conditioning, TV and kettle."
+		],
+		"amenities": [
+			"Private bathroom with shower",
+			"Air conditioning",
+			"Flat-screen TV",
+			"Electric kettle",
+			"Wi-Fi",
+			"Heating",
+			"Daily housekeeping",
+			"24/7 reception",
+			"Work desk where applicable"
+		]
+	},
+	{
+		"slug": "standard-triple-attic",
+		"name": "Standard Triple Attic",
+		"description": "Triple attic room for small groups or families who need three-person accommodation in central Ternopil.",
+		"price": "Verify current rate by phone",
+		"image": "/room/standard-triple-attic.webp",
+		"imageAlt": "Standard triple attic room at Hotel Passage",
+		"size": "Triple attic room",
+		"occupancy": "Up to 3 guests",
+		"bed": "Triple bed setup, confirm exact beds by phone",
+		"bathroom": "Private bathroom with shower",
+		"body": [
+			"This room category is a practical option for three guests staying together near the central bus station.",
+			"Confirm bed arrangement, current rate and availability directly with reception before publishing exact booking terms."
+		],
+		"amenities": [
+			"Private bathroom with shower",
+			"Air conditioning",
+			"Flat-screen TV",
+			"Electric kettle",
+			"Wi-Fi",
+			"Heating",
+			"Daily housekeeping",
+			"24/7 reception"
+		]
+	},
+	{
+		"slug": "family-triple",
+		"name": "Family Room Triple",
+		"description": "Family triple room for parents, relatives or small groups who want a convenient base in Ternopil.",
+		"price": "Verify current rate by phone",
+		"image": "/room/family-triple.webp",
+		"imageAlt": "Family triple room at Hotel Passage",
+		"size": "Family triple room",
+		"occupancy": "Up to 3 guests",
+		"bed": "Family/triple bed setup, confirm exact beds by phone",
+		"bathroom": "Private bathroom with shower",
+		"body": [
+			"The family triple category supports guests traveling with children or relatives who prefer staying together.",
+			"Some public listings mention city-view family or superior options; confirm the exact room view and setup for current dates."
+		],
+		"amenities": [
+			"Private bathroom with shower",
+			"Air conditioning",
+			"Flat-screen TV",
+			"Electric kettle",
+			"Wi-Fi",
+			"Heating",
+			"Daily housekeeping",
+			"24/7 reception",
+			"Family room",
+			"City view in some listed rooms"
+		]
+	},
+	{
+		"slug": "improved-family-triple",
+		"name": "Improved Family Room Triple",
+		"description": "Improved family triple category for guests who want a more comfortable three-person stay at Passage Hotel.",
+		"price": "Verify current rate by phone",
+		"image": "/room/improved-family-triple.webp",
+		"imageAlt": "Improved family triple room at Hotel Passage",
+		"size": "Improved family triple room",
+		"occupancy": "Up to 3 guests",
+		"bed": "Family/triple bed setup, confirm exact beds by phone",
+		"bathroom": "Private bathroom with shower",
+		"body": [
+			"This improved family option is suited to longer stops, family travel and guests who want additional comfort while staying near the Ternopil transport hub.",
+			"Ask reception about current rates, view, exact bed setup and availability for your dates."
+		],
+		"amenities": [
+			"Private bathroom with shower",
+			"Air conditioning",
+			"Flat-screen TV",
+			"Electric kettle",
+			"Wi-Fi",
+			"Heating",
+			"Daily housekeeping",
+			"24/7 reception",
+			"Family room",
+			"Desk where applicable",
+			"City view in some listed rooms"
+		]
+	}
+]

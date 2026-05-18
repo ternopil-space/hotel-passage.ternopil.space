@@ -1,0 +1,150 @@
+{
+	"_id": "hotel-passage-ternopil",
+	"name": "Hotel «Passage»",
+	"lang": "uk",
+	"locale": "uk_UA",
+	"siteUrl": "https://hotel-passage.ternopil.space",
+	"logo": "/logo.webp",
+	"phone": "+38 067 510-15-04",
+	"email": "",
+	"address": "Torgovytsia / Anatoliia Zhyvova / Zhyvova Street 7, Ternopil, Ukraine",
+	"defaultSeo": {
+		"title": "Hotel «Passage» Ternopil - rooms near the central bus station",
+		"description": "Hotel «Passage» in Ternopil offers 26 practical rooms near the central bus station, with 24/7 reception, Wi-Fi, parking options, private bathrooms and direct phone booking.",
+		"keywords": [
+			"Hotel Passage Ternopil",
+			"Passage Hotel Ternopil",
+			"готель Пассаж Тернопіль",
+			"hotel near Ternopil bus station",
+			"rooms in Ternopil",
+			"Torgovytsia 7 hotel"
+		],
+		"author": "Hotel «Passage»",
+		"robots": "index, follow",
+		"image": "/logo.webp",
+		"type": "website",
+		"twitterCard": "summary_large_image"
+	},
+	"pageSeo": {
+		"/": {
+			"title": "Hotel «Passage» Ternopil - rooms near the central bus station",
+			"description": "Comfortable city hotel in Ternopil with 26 rooms, 24/7 reception, Wi-Fi and easy access to the central bus station.",
+			"image": "/room/standard-double-attic.webp"
+		},
+		"/rooms": {
+			"title": "Rooms at Hotel «Passage» Ternopil",
+			"description": "Standard, deluxe, twin, triple and family room categories at Hotel «Passage» in Ternopil. Private bathroom, air conditioning, TV and kettle in key room types.",
+			"image": "/room/deluxe-double.webp"
+		},
+		"/navigation": {
+			"title": "Site navigation | Hotel «Passage» Ternopil",
+			"description": "Quick links to rooms, contacts, hotel rules, FAQ, articles and guest information for Hotel «Passage».",
+			"robots": "noindex, follow",
+			"image": "/logo.webp"
+		},
+		"/gallery": {
+			"title": "Hotel «Passage» gallery",
+			"description": "Photo placeholders and visual context for rooms, reception and guest areas at Hotel «Passage» in Ternopil.",
+			"image": "/gallery/demo-1.webp"
+		},
+		"/discounts": {
+			"title": "Hotel offers | Hotel «Passage» Ternopil",
+			"description": "Suggested direct booking, longer stay, business travel and family stay offers for Hotel «Passage». Confirm active terms by phone.",
+			"image": "/room/family-triple.webp"
+		},
+		"/loyalty": {
+			"title": "Returning guest advantages | Hotel «Passage»",
+			"description": "Simple returning guest advantages for direct bookings and repeat stays at Hotel «Passage» in Ternopil.",
+			"image": "/logo.webp"
+		},
+		"/articles": {
+			"title": "Ternopil travel notes | Hotel «Passage»",
+			"description": "Practical articles for guests arriving by bus or rail, staying overnight in Ternopil, and exploring nearby Topilche.",
+			"image": "/gallery/demo-2.webp"
+		},
+		"/quests": {
+			"title": "Guest mini guides | Hotel «Passage»",
+			"description": "Simple local orientation ideas and family-friendly city stay prompts for guests of Hotel «Passage».",
+			"image": "/gallery/demo-3.webp"
+		},
+		"/questions": {
+			"title": "FAQ | Hotel «Passage» Ternopil",
+			"description": "Answers about check-in, check-out, 24/7 reception, parking, Wi-Fi, meals, family rooms and how to reach Hotel «Passage».",
+			"image": "/logo.webp"
+		},
+		"/rules": {
+			"title": "Hotel rules | Hotel «Passage» Ternopil",
+			"description": "Practical stay rules for check-in, check-out, quiet hours, non-smoking rooms, parking and guest comfort at Hotel «Passage».",
+			"image": "/logo.webp"
+		},
+		"/reviews": {
+			"title": "Guest impressions | Hotel «Passage»",
+			"description": "Review-informed summary of the practical, clean and convenient stay experience at Hotel «Passage» in Ternopil.",
+			"image": "/logo.webp"
+		},
+		"/events": {
+			"title": "Guest plans and local stays | Hotel «Passage»",
+			"description": "Hotel-context guest plans for transit stays, business trips and family weekends in Ternopil.",
+			"image": "/room/improved-family-triple.webp"
+		},
+		"/products": {
+			"title": "Hotel services | Hotel «Passage» Ternopil",
+			"description": "Practical hotel services and amenities: 24/7 reception, Wi-Fi, parking options, housekeeping, elevator and family rooms.",
+			"image": "/logo.webp"
+		},
+		"/jobs": {
+			"title": "Hotel jobs | Hotel «Passage» Ternopil",
+			"description": "Hotel reception, housekeeping and service role information for Hotel «Passage» in Ternopil.",
+			"image": "/logo.webp"
+		},
+		"/team": {
+			"title": "Hotel team | Hotel «Passage» Ternopil",
+			"description": "Reception, housekeeping and guest support team roles at Hotel «Passage» in Ternopil.",
+			"image": "/logo.webp"
+		},
+		"/socials": {
+			"title": "Contacts | Hotel «Passage» Ternopil",
+			"description": "Phone, address, Instagram and map contact details for Hotel «Passage» at Torgovytsia / Zhyvova 7 in Ternopil.",
+			"image": "/logo.webp"
+		},
+		"/contacts": {
+			"title": "Contacts | Hotel «Passage» Ternopil",
+			"description": "Book by phone, request availability and find Hotel «Passage» near Ternopil central bus station.",
+			"image": "/logo.webp"
+		},
+		"/about": {
+			"title": "About Hotel «Passage» Ternopil",
+			"description": "About Hotel «Passage»: a practical city hotel near Ternopil central bus station for transit, business and family stays.",
+			"image": "/gallery/demo-1.webp"
+		}
+	},
+	"structuredData": {
+		"type": "Hotel",
+		"priceRange": "$$",
+		"servesCuisine": "",
+		"addressLocality": "Ternopil",
+		"addressCountry": "UA",
+		"sameAs": [
+			"https://www.instagram.com/hotel_passage/"
+		],
+		"custom": {
+			"@type": "Hotel",
+			"legalName": "Готель «Пассаж»",
+			"alternateName": [
+				"Passage Hotel",
+				"Готель «Пассаж»"
+			],
+			"telephone": "+38 067 510-15-04",
+			"alternateTelephone": "+38 096 947-76-72",
+			"address": {
+				"@type": "PostalAddress",
+				"streetAddress": "Torgovytsia / Anatoliia Zhyvova / Zhyvova Street 7",
+				"addressLocality": "Ternopil",
+				"addressCountry": "UA"
+			},
+			"numberOfRooms": 26,
+			"checkinTime": "14:00",
+			"checkoutTime": "12:00"
+		}
+	}
+}

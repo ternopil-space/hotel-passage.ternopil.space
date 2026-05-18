@@ -1,0 +1,97 @@
+[
+	{
+		"slug": "twenty-four-hour-reception",
+		"title": "24/7 reception",
+		"summary": "Reception is listed as available around the clock for check-in support, guest questions and phone booking.",
+		"details": [
+			"Public listings mention 24/7 reception for Hotel «Passage».",
+			"Guests should still call ahead when arrival is late or when current availability needs confirmation."
+		],
+		"highlights": [
+			"Check-in support",
+			"Phone booking",
+			"Guest questions"
+		],
+		"price": "Included for hotel guests",
+		"category": "Hotel service",
+		"badge": "24/7",
+		"ctaLabel": "Call reception",
+		"ctaHref": "tel:+380675101504"
+	},
+	{
+		"slug": "wifi-internet",
+		"title": "Wi-Fi / internet",
+		"summary": "Internet access is listed among the practical guest services at Passage Hotel.",
+		"details": [
+			"Wi-Fi is important for transit and business guests.",
+			"Ask reception for access details during check-in."
+		],
+		"highlights": [
+			"Useful for work trips",
+			"Available for guests",
+			"Confirm access at reception"
+		],
+		"price": "Included for guests",
+		"category": "Amenity",
+		"badge": "Wi-Fi",
+		"ctaLabel": "Ask details",
+		"ctaHref": "tel:+380675101504"
+	},
+	{
+		"slug": "parking-options",
+		"title": "Parking / street parking",
+		"summary": "Public listings mention parking or street parking options near the hotel.",
+		"details": [
+			"Parking availability can depend on date, time and street conditions.",
+			"Guests arriving by car should confirm details with reception before arrival."
+		],
+		"highlights": [
+			"Car arrival support",
+			"Street parking mentioned publicly",
+			"Confirm before arrival"
+		],
+		"price": "Confirm by phone",
+		"category": "Practical service",
+		"badge": "Parking",
+		"ctaLabel": "Confirm parking",
+		"ctaHref": "tel:+380675101504"
+	},
+	{
+		"slug": "daily-housekeeping",
+		"title": "Daily housekeeping",
+		"summary": "Daily housekeeping is listed as a guest service for comfortable short stays.",
+		"details": [
+			"Housekeeping supports clean, practical rooms for transit, business and family guests.",
+			"Ask reception about timing or special requests during your stay."
+		],
+		"highlights": [
+			"Clean room support",
+			"Useful for multi-night stays",
+			"Coordinate via reception"
+		],
+		"price": "Included for stays",
+		"category": "Hotel service",
+		"badge": "Housekeeping",
+		"ctaLabel": "Contact reception",
+		"ctaHref": "tel:+380675101504"
+	},
+	{
+		"slug": "family-non-smoking-rooms",
+		"title": "Family and non-smoking rooms",
+		"summary": "Public listings mention family rooms and non-smoking rooms at Hotel «Passage».",
+		"details": [
+			"Family triple categories are listed publicly.",
+			"Confirm the room setup and non-smoking preference before booking."
+		],
+		"highlights": [
+			"Family room categories",
+			"Non-smoking room listings",
+			"Confirm exact setup"
+		],
+		"price": "Rate by room category",
+		"category": "Room comfort",
+		"badge": "Family",
+		"ctaLabel": "Ask about rooms",
+		"ctaHref": "/rooms"
+	}
+]

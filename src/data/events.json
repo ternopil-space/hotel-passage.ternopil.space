@@ -1,0 +1,65 @@
+[
+	{
+		"slug": "overnight-transit-plan",
+		"title": "Overnight transit plan",
+		"summary": "A practical stay plan for guests arriving at Ternopil bus station and leaving the next morning.",
+		"dateLabel": "Plan any travel date",
+		"timeLabel": "Check-in from 14:00",
+		"location": "Hotel «Passage», Torgovytsia / Zhyvova 7",
+		"format": "Transit stay",
+		"capacity": "26 rooms in public listings",
+		"ctaLabel": "Call reception",
+		"ctaHref": "tel:+380675101504",
+		"body": [
+			"This is not a hosted event; it is a guest plan for using the hotel conveniently during a transit stop.",
+			"Confirm room availability and arrival time before travel, especially for late arrivals or early departures."
+		],
+		"highlights": [
+			"Near central bus station",
+			"24/7 reception listed publicly",
+			"Check-out until 12:00"
+		]
+	},
+	{
+		"slug": "business-trip-base",
+		"title": "Business trip base in Ternopil",
+		"summary": "A simple stay plan for work travelers who need transport access, Wi-Fi and a practical room.",
+		"dateLabel": "Weekday stays",
+		"timeLabel": "By availability",
+		"location": "Ternopil, near central bus station",
+		"format": "Business stay",
+		"capacity": "Single, double and twin options",
+		"ctaLabel": "Request availability",
+		"ctaHref": "tel:+380675101504",
+		"body": [
+			"Business guests should confirm Wi-Fi, desk availability by room category, parking options and receipt/payment details before arrival.",
+			"The location is practical when transport access matters more than resort-style amenities."
+		],
+		"highlights": [
+			"Wi-Fi/internet listed publicly",
+			"Work desk in many rooms by public listing notes",
+			"Easy transport access"
+		]
+	},
+	{
+		"slug": "family-weekend-stop",
+		"title": "Family weekend stop",
+		"summary": "A practical family stay concept using triple and family room categories near central Ternopil.",
+		"dateLabel": "Weekend or holiday dates",
+		"timeLabel": "By availability",
+		"location": "Hotel «Passage»",
+		"format": "Family stay",
+		"capacity": "Triple and family categories",
+		"ctaLabel": "Ask about family rooms",
+		"ctaHref": "tel:+380675101504",
+		"body": [
+			"Families can ask about Family room Triple and Family room Triple improved categories.",
+			"Confirm exact bed setup, room view, current rate and any child-related needs directly with reception."
+		],
+		"highlights": [
+			"Family room categories listed publicly",
+			"Private bathroom and room comforts",
+			"Central Ternopil access"
+		]
+	}
+]

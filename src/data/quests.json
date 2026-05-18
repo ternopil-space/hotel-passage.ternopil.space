@@ -1,0 +1,61 @@
+[
+	{
+		"slug": "family-city-walk-plan",
+		"title": "Family city walk plan",
+		"audience": "Families",
+		"ageRange": "All ages",
+		"summary": "A simple stay idea for families who want a light walk toward central Ternopil or Hydropark Topilche.",
+		"duration": "30-90 minutes",
+		"format": "Self-guided local orientation",
+		"price": "Free, self-guided",
+		"difficulty": "Easy",
+		"groupSize": "Family or small group",
+		"ctaLabel": "Ask reception for directions",
+		"ctaHref": "tel:+380675101504",
+		"body": [
+			"This is a guest mini guide rather than a paid quest.",
+			"Ask reception about the safest current walking route, especially with children or luggage."
+		],
+		"steps": [
+			"Confirm route at reception",
+			"Choose city center or Topilche direction",
+			"Keep the hotel address saved",
+			"Return before quiet hours"
+		],
+		"highlights": [
+			"Family-friendly orientation",
+			"Nearby city context",
+			"No paid activity implied"
+		]
+	},
+	{
+		"slug": "transit-checklist",
+		"title": "Transit guest checklist",
+		"audience": "Transit travelers",
+		"ageRange": "Adults",
+		"summary": "A practical checklist for guests using the bus station or railway station during a short stay.",
+		"duration": "5 minutes",
+		"format": "Arrival checklist",
+		"price": "Free",
+		"difficulty": "Easy",
+		"groupSize": "Solo or group",
+		"ctaLabel": "Call reception",
+		"ctaHref": "tel:+380675101504",
+		"body": [
+			"This checklist helps guests reduce friction before arrival.",
+			"It keeps important details crawlable without inventing a booking engine."
+		],
+		"steps": [
+			"Call to confirm availability",
+			"Save phone and address",
+			"Confirm check-in time",
+			"Ask about parking if needed",
+			"Confirm check-out time"
+		],
+		"highlights": [
+			"Practical before arrival",
+			"Useful for bus and rail travelers",
+			"Clear contact action"
+		]
+	}
+]

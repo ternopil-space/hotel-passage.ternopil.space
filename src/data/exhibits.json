@@ -1,0 +1,17 @@
+[
+	{
+		"slug": "room-preview",
+		"src": "/room/standard-double-attic.webp",
+		"alt": "Room category preview for Hotel Passage"
+	},
+	{
+		"slug": "reception-context",
+		"src": "/gallery/demo-1.webp",
+		"alt": "Reception and check-in context for Hotel Passage"
+	},
+	{
+		"slug": "ternopil-location",
+		"src": "/gallery/demo-2.webp",
+		"alt": "Ternopil city stay and location context"
+	}
+]

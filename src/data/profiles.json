@@ -1,0 +1,89 @@
+[
+	{
+		"slug": "reception-team",
+		"name": "Reception team",
+		"role": "24/7 guest support",
+		"department": "Hotel reception",
+		"seniority": "Guest support listed around the clock",
+		"description": "The reception team helps with booking requests, arrival questions, check-in, check-out and practical stay details.",
+		"image": "",
+		"publicRole": true,
+		"availableForGuestQuestions": true,
+		"specialties": [
+			"Reservations",
+			"Check-in and check-out",
+			"Local orientation"
+		],
+		"languages": [
+			"Ukrainian"
+		],
+		"tips": "Call before arrival to confirm availability, room category and any late check-in details.",
+		"body": [
+			"This public team profile keeps the site focused on real hotel service without inventing individual staff names.",
+			"Reception is the best contact point for current rates, parking questions, room setup and arrival timing."
+		],
+		"highlights": [
+			"Booking by phone",
+			"24/7 reception listed publicly",
+			"Practical guest help"
+		]
+	},
+	{
+		"slug": "housekeeping-team",
+		"name": "Housekeeping team",
+		"role": "Room cleanliness and comfort",
+		"department": "Housekeeping",
+		"seniority": "Daily housekeeping listed publicly",
+		"description": "Housekeeping supports the clean and practical stay experience described across public listings and review patterns.",
+		"image": "",
+		"publicRole": true,
+		"availableForGuestQuestions": false,
+		"specialties": [
+			"Room preparation",
+			"Daily housekeeping",
+			"Guest comfort"
+		],
+		"languages": [
+			"Ukrainian"
+		],
+		"tips": "Ask reception if you need housekeeping timing adjusted during your stay.",
+		"body": [
+			"Clean, well-prepared rooms are a key part of the Passage Hotel positioning.",
+			"This profile describes the team function rather than naming unverified individual employees."
+		],
+		"highlights": [
+			"Room preparation",
+			"Cleanliness",
+			"Comfort basics"
+		]
+	},
+	{
+		"slug": "guest-service-team",
+		"name": "Guest service team",
+		"role": "Practical hotel assistance",
+		"department": "Guest service",
+		"seniority": "Hotel operations",
+		"description": "The guest service team coordinates everyday questions about rooms, parking, Wi-Fi, luggage and local directions.",
+		"image": "",
+		"publicRole": true,
+		"availableForGuestQuestions": true,
+		"specialties": [
+			"Wi-Fi and parking questions",
+			"Local directions",
+			"Stay coordination"
+		],
+		"languages": [
+			"Ukrainian"
+		],
+		"tips": "For exact prices, pets, meals or optional services, ask the team directly before publishing or booking.",
+		"body": [
+			"Some public aggregators list optional services that should be confirmed before being presented as official hotel guarantees.",
+			"The guest service team is the right contact for clarifying what is available on the current date."
+		],
+		"highlights": [
+			"Practical answers",
+			"Local orientation",
+			"Service confirmation"
+		]
+	}
+]
