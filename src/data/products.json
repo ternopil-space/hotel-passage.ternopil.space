@@ -1,116 +1,97 @@
 [
 	{
-		"slug": "summer-terrace",
-		"title": "Літній майданчик",
-		"summary": "Outdoor seating / літній майданчик згадані публічно для Над Ставом.",
+		"slug": "twenty-four-hour-reception",
+		"title": "24/7 reception",
+		"summary": "Reception is listed as available around the clock for check-in support, guest questions and phone booking.",
 		"details": [
-			"Тераса є корисним акцентом для теплої пори року.",
-			"Кількість місць і сезонність потрібно підтвердити у закладі."
+			"Public listings mention 24/7 reception for Hotel «Passage».",
+			"Guests should still call ahead when arrival is late or when current availability needs confirmation."
 		],
 		"highlights": [
-			"Outdoor seating",
-			"Літній майданчик",
-			"Білецька, 33"
+			"Check-in support",
+			"Phone booking",
+			"Guest questions"
 		],
-		"price": "За замовленням",
-		"category": "Послуга закладу",
-		"badge": "Тераса",
-		"ctaLabel": "Прокласти маршрут",
-		"ctaHref": "https://maps.app.goo.gl/P3iGmyqzQQkoJRAeA"
+		"price": "Included for hotel guests",
+		"category": "Hotel service",
+		"badge": "24/7",
+		"ctaLabel": "Call reception",
+		"ctaHref": "tel:+380675101504"
 	},
 	{
-		"slug": "wifi-tv-football",
-		"title": "Wi-Fi, TV і футбол",
-		"summary": "Wi-Fi, TV і перегляд футбольних матчів згадані у відкритих джерелах.",
+		"slug": "wifi-internet",
+		"title": "Wi-Fi / internet",
+		"summary": "Internet access is listed among the practical guest services at Passage Hotel.",
 		"details": [
-			"Це варто подавати як публічно згадану можливість, не як гарантію кожної трансляції.",
-			"Розклад матчів і бронювання столу слід уточнювати напряму."
+			"Wi-Fi is important for transit and business guests.",
+			"Ask reception for access details during check-in."
 		],
 		"highlights": [
-			"Wi-Fi",
-			"TV",
-			"Перегляд футболу"
+			"Useful for work trips",
+			"Available for guests",
+			"Confirm access at reception"
 		],
-		"price": "Уточнюйте у закладі",
-		"category": "Атмосфера",
-		"badge": "Football",
-		"ctaLabel": "Уточнити телефоном",
-		"ctaHref": "tel:+380977993984"
+		"price": "Included for guests",
+		"category": "Amenity",
+		"badge": "Wi-Fi",
+		"ctaLabel": "Ask details",
+		"ctaHref": "tel:+380675101504"
 	},
 	{
-		"slug": "takeaway-delivery",
-		"title": "Takeaway і доставка",
-		"summary": "Takeaway, delivery і food delivery згадані публічно, але платформи та зона доставки не підтверджені.",
+		"slug": "parking-options",
+		"title": "Parking / street parking",
+		"summary": "Public listings mention parking or street parking options near the hotel.",
 		"details": [
-			"Не вказуйте конкретну платформу доставки без підтвердження.",
-			"Актуальну можливість самовивозу чи доставки краще уточнювати перед замовленням."
+			"Parking availability can depend on date, time and street conditions.",
+			"Guests arriving by car should confirm details with reception before arrival."
 		],
 		"highlights": [
-			"Takeaway",
-			"Delivery згадано публічно",
-			"Платформа не підтверджена"
+			"Car arrival support",
+			"Street parking mentioned publicly",
+			"Confirm before arrival"
 		],
-		"price": "За замовленням",
-		"category": "Замовлення",
-		"badge": "To go",
-		"ctaLabel": "Уточнити умови",
-		"ctaHref": "tel:+380977993984"
-	},
-	{
-		"slug": "reservation",
-		"title": "Бронювання",
-		"summary": "Booking / reservation згадані у публічних джерелах.",
-		"details": [
-			"Для вечора, футболу або компанії варто уточнювати стіл заздалегідь.",
-			"Правила бронювання і депозит не підтверджені."
-		],
-		"highlights": [
-			"Бронювання столу",
-			"Компанії",
-			"Умови підтвердити"
-		],
-		"price": "Уточнюйте",
-		"category": "Гостьовий сервіс",
-		"badge": "Booking",
-		"ctaLabel": "Зателефонувати",
-		"ctaHref": "tel:+380977993984"
-	},
-	{
-		"slug": "events-up-to-40",
-		"title": "Свята і компанії",
-		"summary": "Публічно згадані celebrations / special events up to 40 people, але місткість треба підтвердити.",
-		"details": [
-			"Цей пункт не варто подавати як гарантовану місткість без власника.",
-			"Підходить для обережної сторінки про невеликі події та компанії."
-		],
-		"highlights": [
-			"Події до 40 людей згадані публічно",
-			"Умови перевірити",
-			"Меню узгодити"
-		],
-		"price": "За домовленістю",
-		"category": "Події",
-		"badge": "Events",
-		"ctaLabel": "Обговорити подію",
-		"ctaHref": "tel:+380977993984"
-	},
-	{
-		"slug": "parking",
-		"title": "Паркування",
-		"summary": "Parking згаданий у відкритих джерелах.",
-		"details": [
-			"Паркування може залежати від часу, завантаження і вуличних умов.",
-			"Гостям варто уточнити актуальні деталі перед приїздом."
-		],
-		"highlights": [
-			"Parking",
-			"Білецька, 33",
-			"Уточнювати на дату"
-		],
-		"price": "Уточнюйте",
-		"category": "Зручність",
+		"price": "Confirm by phone",
+		"category": "Practical service",
 		"badge": "Parking",
-		"ctaLabel": "Відкрити карту",
-		"ctaHref": "https://maps.app.goo.gl/P3iGmyqzQQkoJRAeA"
+		"ctaLabel": "Confirm parking",
+		"ctaHref": "tel:+380675101504"
+	},
+	{
+		"slug": "daily-housekeeping",
+		"title": "Daily housekeeping",
+		"summary": "Daily housekeeping is listed as a guest service for comfortable short stays.",
+		"details": [
+			"Housekeeping supports clean, practical rooms for transit, business and family guests.",
+			"Ask reception about timing or special requests during your stay."
+		],
+		"highlights": [
+			"Clean room support",
+			"Useful for multi-night stays",
+			"Coordinate via reception"
+		],
+		"price": "Included for stays",
+		"category": "Hotel service",
+		"badge": "Housekeeping",
+		"ctaLabel": "Contact reception",
+		"ctaHref": "tel:+380675101504"
+	},
+	{
+		"slug": "family-non-smoking-rooms",
+		"title": "Family and non-smoking rooms",
+		"summary": "Public listings mention family rooms and non-smoking rooms at Hotel «Passage».",
+		"details": [
+			"Family triple categories are listed publicly.",
+			"Confirm the room setup and non-smoking preference before booking."
+		],
+		"highlights": [
+			"Family room categories",
+			"Non-smoking room listings",
+			"Confirm exact setup"
+		],
+		"price": "Rate by room category",
+		"category": "Room comfort",
+		"badge": "Family",
+		"ctaLabel": "Ask about rooms",
+		"ctaHref": "/rooms"
 	}
 ]

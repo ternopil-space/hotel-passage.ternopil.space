@@ -79,7 +79,7 @@ function _normalizeStructuredData(
 	structuredData: RawCompanyProfile['structuredData'],
 ): CompanyStructuredData {
 	return {
-		type: _stringOrFallback(structuredData?.type, 'Restaurant'),
+		type: _stringOrFallback(structuredData?.type, 'Hotel'),
 		priceRange: _stringOrFallback(structuredData?.priceRange, '$$'),
 		servesCuisine: _stringOrFallback(structuredData?.servesCuisine),
 		addressLocality: _stringOrFallback(structuredData?.addressLocality, 'Ternopil'),

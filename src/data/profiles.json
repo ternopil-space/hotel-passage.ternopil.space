@@ -1,89 +1,89 @@
 [
 	{
-		"slug": "bar-and-floor-team",
-		"name": "Команда залу і бару",
-		"role": "Гостьовий сервіс",
-		"department": "Зал і бар",
-		"seniority": "Публічна командна роль",
-		"description": "Команда залу і бару допомагає гостям з напоями, замовленнями, столами і загальною атмосферою пабу.",
+		"slug": "reception-team",
+		"name": "Reception team",
+		"role": "24/7 guest support",
+		"department": "Hotel reception",
+		"seniority": "Guest support listed around the clock",
+		"description": "The reception team helps with booking requests, arrival questions, check-in, check-out and practical stay details.",
 		"image": "",
 		"publicRole": true,
 		"availableForGuestQuestions": true,
 		"specialties": [
-			"Пиво",
-			"Закуски",
-			"Бронювання столів"
+			"Reservations",
+			"Check-in and check-out",
+			"Local orientation"
 		],
 		"languages": [
 			"Ukrainian"
 		],
-		"tips": "Для актуального меню, бронювання чи футболу краще уточнити деталі перед візитом.",
+		"tips": "Call before arrival to confirm availability, room category and any late check-in details.",
 		"body": [
-			"Профіль описує функцію команди без вигаданих персональних імен.",
-			"Це відповідає публічному формату сайту і не створює непідтверджених claims."
+			"This public team profile keeps the site focused on real hotel service without inventing individual staff names.",
+			"Reception is the best contact point for current rates, parking questions, room setup and arrival timing."
 		],
 		"highlights": [
-			"Пиво",
-			"Стіл",
-			"Гості"
+			"Booking by phone",
+			"24/7 reception listed publicly",
+			"Practical guest help"
 		]
 	},
 	{
-		"slug": "kitchen-team",
-		"name": "Команда кухні",
-		"role": "Кухня пабу",
-		"department": "Кухня",
-		"seniority": "Публічна командна роль",
-		"description": "Кухня відповідає за закуски, основні страви, комплексні обіди і гриль-напрямки, згадані публічно.",
+		"slug": "housekeeping-team",
+		"name": "Housekeeping team",
+		"role": "Room cleanliness and comfort",
+		"department": "Housekeeping",
+		"seniority": "Daily housekeeping listed publicly",
+		"description": "Housekeeping supports the clean and practical stay experience described across public listings and review patterns.",
 		"image": "",
 		"publicRole": true,
 		"availableForGuestQuestions": false,
 		"specialties": [
-			"Закуски",
-			"Основні страви",
-			"Комплексні обіди"
+			"Room preparation",
+			"Daily housekeeping",
+			"Guest comfort"
 		],
 		"languages": [
 			"Ukrainian"
 		],
-		"tips": "Точні позиції меню і ціни потрібно підтвердити власником перед публікацією.",
+		"tips": "Ask reception if you need housekeeping timing adjusted during your stay.",
 		"body": [
-			"Публічні джерела згадують українську, європейську кухню, гриль і окремі страви.",
-			"Без офіційного меню сайт не повинен копіювати повний список або ціни."
+			"Clean, well-prepared rooms are a key part of the Passage Hotel positioning.",
+			"This profile describes the team function rather than naming unverified individual employees."
 		],
 		"highlights": [
-			"Кухня",
-			"Обіди",
-			"Гриль"
+			"Room preparation",
+			"Cleanliness",
+			"Comfort basics"
 		]
 	},
 	{
-		"slug": "reservation-team",
-		"name": "Контакт і бронювання",
-		"role": "Дзвінки та уточнення",
-		"department": "Гостьова підтримка",
-		"seniority": "Публічна командна роль",
-		"description": "Контактна роль для уточнення столів, годин, доставки, подій і поточного меню.",
+		"slug": "guest-service-team",
+		"name": "Guest service team",
+		"role": "Practical hotel assistance",
+		"department": "Guest service",
+		"seniority": "Hotel operations",
+		"description": "The guest service team coordinates everyday questions about rooms, parking, Wi-Fi, luggage and local directions.",
 		"image": "",
 		"publicRole": true,
 		"availableForGuestQuestions": true,
 		"specialties": [
-			"Бронювання",
-			"Доставка за уточненням",
-			"Події"
+			"Wi-Fi and parking questions",
+			"Local directions",
+			"Stay coordination"
 		],
 		"languages": [
 			"Ukrainian"
 		],
-		"tips": "Телефонні дані з публічних джерел конфліктують, тому власник має підтвердити основний номер.",
+		"tips": "For exact prices, pets, meals or optional services, ask the team directly before publishing or booking.",
 		"body": [
-			"Найчастіше повторений кандидат телефону: +380 97 799 3984.",
-			"Email nadstavom.bar@gmail.com знайдений публічно, але теж потребує підтвердження перед активним використанням."
+			"Some public aggregators list optional services that should be confirmed before being presented as official hotel guarantees.",
+			"The guest service team is the right contact for clarifying what is available on the current date."
 		],
 		"highlights": [
-			"Контакт",
-			"Уточнення",
-			"Бронювання"
+			"Practical answers",
+			"Local orientation",
+			"Service confirmation"
 		]
 	}
 ]

@@ -1,134 +1,165 @@
 [
 	{
-		"slug": "beer-selection",
-		"name": "Пиво",
-		"description": "Багато видів пива - один із головних публічних акцентів Над Ставом.",
-		"price": "Ціни уточнюйте у закладі",
-		"image": "/logo.webp",
-		"imageAlt": "Логотип Над Ставом",
-		"size": "Напої",
-		"occupancy": "Для гостей пабу",
-		"bed": "Пиво та безалкогольні альтернативи за наявністю",
-		"bathroom": "Не застосовується",
+		"slug": "standard-double-attic",
+		"name": "Standard Double Attic",
+		"description": "A compact double attic room for one or two guests who need a practical overnight stay near Ternopil central bus station.",
+		"price": "Verify current rate by phone",
+		"image": "/room/standard-double-attic.webp",
+		"imageAlt": "Standard double attic room at Hotel Passage",
+		"size": "Double attic room",
+		"occupancy": "Up to 2 guests",
+		"bed": "1 double bed",
+		"bathroom": "Private bathroom with shower",
 		"body": [
-			"Instagram @nadsstavom публічно згадує безліч видів пива.",
-			"Точну карту напоїв, наявність конкретних сортів і ціни потрібно підтвердити у закладі."
+			"This category suits transit travelers, couples and solo guests who want a straightforward city-hotel room close to the bus station.",
+			"Public room listings mention a private bathroom, air conditioning, flat-screen TV and electric kettle. Please confirm current availability and exact rate before arrival."
 		],
 		"amenities": [
-			"Багато видів пива",
-			"Свіже Опілля у публічних описах",
-			"Пабний формат",
-			"Подача до закусок"
+			"Private bathroom with shower",
+			"Air conditioning",
+			"Flat-screen TV",
+			"Electric kettle",
+			"Wi-Fi",
+			"Heating",
+			"Daily housekeeping",
+			"24/7 reception"
 		]
 	},
 	{
-		"slug": "snacks",
-		"name": "Закуски",
-		"description": "Смачні закуски згадані в публічному Instagram-описі закладу.",
-		"price": "За актуальним меню",
-		"image": "/logo.webp",
-		"imageAlt": "Над Ставом закуски",
-		"size": "Їжа",
-		"occupancy": "Для компаній і гостей пабу",
-		"bed": "До пива і столу",
-		"bathroom": "Не застосовується",
+		"slug": "deluxe-double",
+		"name": "De luxe Double",
+		"description": "A more comfortable double room option for guests who want extra ease during a business trip or short stay in Ternopil.",
+		"price": "Verify current rate by phone",
+		"image": "/room/deluxe-double.webp",
+		"imageAlt": "Deluxe double room at Hotel Passage",
+		"size": "Double room",
+		"occupancy": "Up to 2 guests",
+		"bed": "1 double bed",
+		"bathroom": "Private bathroom with shower",
 		"body": [
-			"Закуски варто подавати на сайті без точного списку і цін, поки власник не надасть підтверджене меню.",
-			"Публічні джерела також згадують chebureki, рибу, мʼясо та інші позиції, але повне меню не підтверджене."
+			"The deluxe double category is positioned for a calmer stay with the core comforts expected from Passage Hotel.",
+			"Use it for short city stays, business travel or a comfortable stop between routes through Ternopil."
 		],
 		"amenities": [
-			"Закуски до пива",
-			"Публічно згадані чебуреки",
-			"Рибні та мʼясні позиції згадані в оглядах",
-			"Точний склад уточнювати"
+			"Private bathroom with shower",
+			"Air conditioning",
+			"Flat-screen TV",
+			"Electric kettle",
+			"Wi-Fi",
+			"Heating",
+			"Daily housekeeping",
+			"24/7 reception",
+			"Work desk where applicable"
 		]
 	},
 	{
-		"slug": "main-dishes",
-		"name": "Основні страви",
-		"description": "Основні страви, українська та європейська кухня згадані у відкритих джерелах.",
-		"price": "За актуальним меню",
-		"image": "/logo.webp",
-		"imageAlt": "Над Ставом основні страви",
-		"size": "Кухня",
-		"occupancy": "Обід або вечеря",
-		"bed": "Основні страви",
-		"bathroom": "Не застосовується",
+		"slug": "standard-double-twin",
+		"name": "Standard Double Twin",
+		"description": "Twin room category for two guests who prefer separate beds and simple hotel comfort near the transport hub.",
+		"price": "Verify current rate by phone",
+		"image": "/room/standard-double-twin.webp",
+		"imageAlt": "Standard twin room at Hotel Passage",
+		"size": "Twin room",
+		"occupancy": "Up to 2 guests",
+		"bed": "2 single beds",
+		"bathroom": "Private bathroom with shower",
 		"body": [
-			"Публічні каталоги згадують українську, європейську кухню та гриль.",
-			"Не варто публікувати точне повне меню або ціни без власницького підтвердження."
+			"The twin setup is useful for colleagues, friends, relatives or guests arriving in Ternopil for a practical short stay.",
+			"Public listings describe twin rooms with private bathroom, air conditioning, TV and kettle."
 		],
 		"amenities": [
-			"Українська кухня",
-			"Європейська кухня",
-			"Гриль-страви",
-			"Мʼясо, риба, стейки згадані публічно"
+			"Private bathroom with shower",
+			"Air conditioning",
+			"Flat-screen TV",
+			"Electric kettle",
+			"Wi-Fi",
+			"Heating",
+			"Daily housekeeping",
+			"24/7 reception",
+			"Work desk where applicable"
 		]
 	},
 	{
-		"slug": "complex-lunches",
-		"name": "Комплексні обіди",
-		"description": "Комплексні обіди прямо згадані в Instagram @nadsstavom.",
-		"price": "Уточнюйте на поточний день",
-		"image": "/logo.webp",
-		"imageAlt": "Над Ставом комплексні обіди",
-		"size": "Обідній формат",
-		"occupancy": "Для щоденного обіду",
-		"bed": "Комплексний обід",
-		"bathroom": "Не застосовується",
+		"slug": "standard-triple-attic",
+		"name": "Standard Triple Attic",
+		"description": "Triple attic room for small groups or families who need three-person accommodation in central Ternopil.",
+		"price": "Verify current rate by phone",
+		"image": "/room/standard-triple-attic.webp",
+		"imageAlt": "Standard triple attic room at Hotel Passage",
+		"size": "Triple attic room",
+		"occupancy": "Up to 3 guests",
+		"bed": "Triple bed setup, confirm exact beds by phone",
+		"bathroom": "Private bathroom with shower",
 		"body": [
-			"Цей розділ можна використовувати як обережний CTA для обіднього трафіку.",
-			"Склад обіду, години подачі і ціну потрібно підтверджувати на день відвідування."
+			"This room category is a practical option for three guests staying together near the central bus station.",
+			"Confirm bed arrangement, current rate and availability directly with reception before publishing exact booking terms."
 		],
 		"amenities": [
-			"Комплексні обіди",
-			"Щоденний формат",
-			"Зручно для обіду на Білецькій",
-			"Поточні умови уточнюються"
+			"Private bathroom with shower",
+			"Air conditioning",
+			"Flat-screen TV",
+			"Electric kettle",
+			"Wi-Fi",
+			"Heating",
+			"Daily housekeeping",
+			"24/7 reception"
 		]
 	},
 	{
-		"slug": "grill-and-meat",
-		"name": "Гриль і мʼясні страви",
-		"description": "Гриль, стейки, шашлик і мʼясні позиції згадані у публічних listing/review джерелах.",
-		"price": "За актуальним меню",
-		"image": "/logo.webp",
-		"imageAlt": "Над Ставом гриль",
-		"size": "Гриль",
-		"occupancy": "Для вечері або компанії",
-		"bed": "Гриль-страви",
-		"bathroom": "Не застосовується",
+		"slug": "family-triple",
+		"name": "Family Room Triple",
+		"description": "Family triple room for parents, relatives or small groups who want a convenient base in Ternopil.",
+		"price": "Verify current rate by phone",
+		"image": "/room/family-triple.webp",
+		"imageAlt": "Family triple room at Hotel Passage",
+		"size": "Family triple room",
+		"occupancy": "Up to 3 guests",
+		"bed": "Family/triple bed setup, confirm exact beds by phone",
+		"bathroom": "Private bathroom with shower",
 		"body": [
-			"Restaurant Guru та інші публічні згадки містять позиції на кшталт steak, kebabs, meat.",
-			"Це не є підтвердженим повним меню; власник має надати офіційну карту для точного сайту."
+			"The family triple category supports guests traveling with children or relatives who prefer staying together.",
+			"Some public listings mention city-view family or superior options; confirm the exact room view and setup for current dates."
 		],
 		"amenities": [
-			"Гриль-страви",
-			"Стейки згадані публічно",
-			"Шашлик згаданий публічно",
-			"Мʼясні позиції"
+			"Private bathroom with shower",
+			"Air conditioning",
+			"Flat-screen TV",
+			"Electric kettle",
+			"Wi-Fi",
+			"Heating",
+			"Daily housekeeping",
+			"24/7 reception",
+			"Family room",
+			"City view in some listed rooms"
 		]
 	},
 	{
-		"slug": "fish-dishes",
-		"name": "Рибні страви",
-		"description": "Риба та скумбрія згадані серед публічних menu/review сигналів.",
-		"price": "За актуальним меню",
-		"image": "/logo.webp",
-		"imageAlt": "Над Ставом рибні страви",
-		"size": "Риба",
-		"occupancy": "До пива або вечері",
-		"bed": "Рибні позиції",
-		"bathroom": "Не застосовується",
+		"slug": "improved-family-triple",
+		"name": "Improved Family Room Triple",
+		"description": "Improved family triple category for guests who want a more comfortable three-person stay at Passage Hotel.",
+		"price": "Verify current rate by phone",
+		"image": "/room/improved-family-triple.webp",
+		"imageAlt": "Improved family triple room at Hotel Passage",
+		"size": "Improved family triple room",
+		"occupancy": "Up to 3 guests",
+		"bed": "Family/triple bed setup, confirm exact beds by phone",
+		"bathroom": "Private bathroom with shower",
 		"body": [
-			"Публічні джерела згадують fish та mackerel/scomber.",
-			"Наявність конкретних рибних позицій потрібно перевірити перед публікацією меню."
+			"This improved family option is suited to longer stops, family travel and guests who want additional comfort while staying near the Ternopil transport hub.",
+			"Ask reception about current rates, view, exact bed setup and availability for your dates."
 		],
 		"amenities": [
-			"Риба згадана публічно",
-			"Скумбрія згадана публічно",
-			"Подача до пива",
-			"Наявність уточнювати"
+			"Private bathroom with shower",
+			"Air conditioning",
+			"Flat-screen TV",
+			"Electric kettle",
+			"Wi-Fi",
+			"Heating",
+			"Daily housekeeping",
+			"24/7 reception",
+			"Family room",
+			"Desk where applicable",
+			"City view in some listed rooms"
 		]
 	}
 ]

@@ -43,20 +43,20 @@ export class HomeComponent {
 	private readonly _roomService = inject(RoomService);
 
 	protected readonly company = companyProfile;
-	protected readonly venueHighlights = [
-		'Public sources describe Nad Stavom as a branded Opillia pub with beer, snacks, main dishes and complex lunches.',
-		'Hours are publicly listed as 11:00-23:00 every day, with no break noted by List.in.ua.',
-		'Phone, email, exact menu, prices, delivery rules and event capacity should be verified by the owner before being presented as official guarantees.',
+	protected readonly hotelHighlights = [
+		'26 rooms listed publicly, including double, twin, triple and family categories.',
+		'24/7 reception, Wi-Fi, daily housekeeping, air conditioning, heating and parking or street parking are listed by public sources.',
+		'Meals are not presented as a confirmed hotel restaurant service; nearby food options are available and optional room-service references should be confirmed.',
 	];
 	protected readonly quickFacts = [
-		'Pub / bar',
-		'Biletska 33',
-		'11:00-23:00',
-		'Beer',
-		'Snacks',
-		'Complex lunches',
-		'Summer terrace',
-		'Football viewing',
+		'26 rooms',
+		'24/7 reception',
+		'Wi-Fi',
+		'Parking / street parking',
+		'Check-in from 14:00',
+		'Check-out until 12:00',
+		'Near central bus station',
+		'About 1.5 km to railway station / center',
 	];
 	protected readonly featurePreviews = computed(() => {
 		const article = this._articleService.articles()[0];
@@ -82,13 +82,13 @@ export class HomeComponent {
 				: null,
 			room
 				? {
-						eyebrow: 'Menu direction',
+						eyebrow: 'Room category',
 						title: room.name,
 						summary: room.description,
 						meta: room.price,
 						itemRoute: `/room/${room.slug}`,
 						allRoute: '/rooms',
-						seeAllLabel: 'View menu directions',
+						seeAllLabel: 'View all rooms',
 						imageSrc: room.image,
 						imageAlt: room.imageAlt,
 					}
@@ -106,18 +106,18 @@ export class HomeComponent {
 				: null,
 			event
 				? {
-						eyebrow: 'Visit plan',
+						eyebrow: 'Guest plan',
 						title: event.title,
 						summary: event.summary,
 						meta: event.dateLabel,
 						itemRoute: `/event/${event.slug}`,
 						allRoute: '/events',
-						seeAllLabel: 'View visit plans',
+						seeAllLabel: 'View guest plans',
 					}
 				: null,
 			product
 				? {
-						eyebrow: 'Pub service',
+						eyebrow: 'Hotel service',
 						title: product.title,
 						summary: product.summary,
 						meta: product.price,
@@ -128,7 +128,7 @@ export class HomeComponent {
 				: null,
 			review
 				? {
-						eyebrow: 'Public signal',
+						eyebrow: 'Guest impression',
 						title: review.title,
 						summary: review.body,
 						meta: review.author,
@@ -156,12 +156,12 @@ export class HomeComponent {
 						meta: job.location,
 						itemRoute: `/job/${job.slug}`,
 						allRoute: '/jobs',
-						seeAllLabel: 'View pub jobs',
+						seeAllLabel: 'View hotel jobs',
 					}
 				: null,
 			profile
 				? {
-						eyebrow: 'Pub team',
+						eyebrow: 'Hotel team',
 						title: profile.name,
 						summary: profile.description,
 						meta: profile.role,

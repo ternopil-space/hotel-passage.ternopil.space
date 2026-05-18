@@ -12,17 +12,17 @@
 					class="material-symbols-outlined animate-pulse text-[28px]"
 					aria-hidden="true"
 				>
-					restaurant_menu
+					hotel
 				</span>
 			</div>
 
 			<p
 				class="mt-4 text-[12px] font-semibold uppercase tracking-[0.18em] text-[var(--c-secondary)]"
 			>
-				<span [translate]="'Menu'">{{ 'Menu' }}</span>
+				<span [translate]="'Rooms'">{{ 'Rooms' }}</span>
 			</p>
 			<p class="mt-2 text-sm text-[var(--c-text-muted)]">
-				<span [translate]="'Loading menu...'">{{ 'Loading menu...' }}</span>
+				<span [translate]="'Loading rooms...'">{{ 'Loading rooms...' }}</span>
 			</p>
 		</section>
 	} @else if (hasRooms()) {
@@ -33,9 +33,9 @@
 				<div class="relative min-h-[18rem] lg:min-h-[30rem]">
 					<img
 						class="object-cover"
-						ngSrc="logo.webp"
+						ngSrc="room/deluxe-double.webp"
 						translate
-						[translate]="{ alt: 'Nad Stavom menu preview' }"
+						[translate]="{ alt: 'Hotel Passage room preview' }"
 						fill
 						priority
 						sizes="(max-width: 1023px) 100vw, 60vw"
@@ -48,36 +48,36 @@
 					<p
 						class="text-[12px] font-semibold uppercase tracking-[0.18em] text-[var(--c-secondary)]"
 					>
-						<span [translate]="'Menu directions'">{{ 'Menu directions' }}</span>
+						<span [translate]="'Rooms'">{{ 'Rooms' }}</span>
 					</p>
 					<h1
 						class="mt-3 text-[2rem] font-semibold leading-tight text-[var(--c-text-secondary)] sm:text-[2.4rem]"
 					>
-						<span [translate]="'Menu directions at Над Ставом in Ternopil'">{{
-							'Menu directions at Над Ставом in Ternopil'
+						<span [translate]="'Rooms at Hotel «Passage» in Ternopil'">{{
+							'Rooms at Hotel «Passage» in Ternopil'
 						}}</span>
 					</h1>
 					<p class="mt-4 text-sm leading-7 text-[var(--c-text-muted)]">
 						<span
-							[translate]="'Public sources mention beer, many types of beer, snacks, main dishes, complex lunches, Ukrainian and European cuisine, grill dishes and selected review/menu items.'"
+							[translate]="'Passage Hotel public listings include double, twin, triple and family room categories for transit, business and family stays near the central bus station.'"
 							>{{
-								'Public sources mention beer, many types of beer, snacks, main dishes, complex lunches, Ukrainian and European cuisine, grill dishes and selected review/menu items.'
+								'Passage Hotel public listings include double, twin, triple and family room categories for transit, business and family stays near the central bus station.'
 							}}</span
 						>
 					</p>
 					<p class="mt-3 text-sm leading-7 text-[var(--c-text-muted)]">
 						<span
-							[translate]="'Each detail page keeps menu information crawlable without publishing exact prices or a full menu until the owner confirms it.'"
+							[translate]="'Each room page keeps key details crawlable: occupancy, bed setup where known, private bathroom, air conditioning, TV, kettle and booking phone.'"
 							>{{
-								'Each detail page keeps menu information crawlable without publishing exact prices or a full menu until the owner confirms it.'
+								'Each room page keeps key details crawlable: occupancy, bed setup where known, private bathroom, air conditioning, TV, kettle and booking phone.'
 							}}</span
 						>
 					</p>
 					<p class="mt-3 text-sm leading-7 text-[var(--c-text-muted)]">
-						<span [translate]="'Prices'">{{ 'Prices' }}</span>
+						<span [translate]="'Rates'">{{ 'Rates' }}</span>
 						<span class="font-semibold text-[var(--c-text-secondary)]">
-							<span [translate]="'must be verified against the current owner-approved menu'">{{
-								'must be verified against the current owner-approved menu'
+							<span [translate]="'must be verified by phone for current dates'">{{
+								'must be verified by phone for current dates'
 							}}</span> </span
 						>.
 					</p>
@@ -88,15 +88,15 @@
 				<div class="grid gap-6 lg:grid-cols-[minmax(0,0.8fr)_minmax(0,1.2fr)]">
 					<div>
 						<h2 class="text-lg font-semibold text-[var(--c-text-secondary)]">
-							<span [translate]="'What is publicly listed'">{{
-								'What is publicly listed'
+							<span [translate]="'What is available for guests'">{{
+								'What is available for guests'
 							}}</span>
 						</h2>
 						<p class="mt-3 text-sm leading-7 text-[var(--c-text-muted)]">
 							<span
-							[translate]="'Public information supports a pub format with beer, food, terrace, Wi-Fi, TV, football viewing, takeaway, delivery and booking references, while exact conditions still need confirmation.'"
+							[translate]="'Confirmed public information supports practical hotel services: reception, Wi-Fi, parking or street parking, housekeeping, elevator, family rooms, non-smoking rooms, air conditioning and heating.'"
 							>{{
-								'Public information supports a pub format with beer, food, terrace, Wi-Fi, TV, football viewing, takeaway, delivery and booking references, while exact conditions still need confirmation.'
+								'Confirmed public information supports practical hotel services: reception, Wi-Fi, parking or street parking, housekeeping, elevator, family rooms, non-smoking rooms, air conditioning and heating.'
 							}}</span
 							>
 						</p>
@@ -121,7 +121,7 @@
 							class="room-card block overflow-hidden rounded-[1.35rem] border border-[var(--c-border)] bg-[var(--c-bg-primary)] transition-transform duration-200 hover:-translate-y-0.5 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--c-secondary)] focus-visible:ring-offset-2 focus-visible:ring-offset-[var(--c-bg-secondary)]"
 							[routerLink]="['/room', room.slug]"
 							translate
-							[translate]="{ ariaLabel: 'Open menu details' }"
+							[translate]="{ ariaLabel: 'Open room details' }"
 						>
 							<div class="relative min-h-[15rem]">
 								<img
@@ -149,7 +149,7 @@
 									<p
 										class="text-sm font-semibold uppercase tracking-[0.12em] text-[var(--c-secondary)]"
 									>
-										<span [translate]="'Price status'">{{ 'Price status' }}</span>
+										<span [translate]="'Rate'">{{ 'Rate' }}</span>
 										@if (room.price) {
 											<span
 												>:
@@ -174,18 +174,18 @@
 						<p
 							class="text-[12px] font-semibold uppercase tracking-[0.18em] text-[var(--c-secondary)]"
 						>
-							<span [translate]="'Contact'">{{ 'Contact' }}</span>
+							<span [translate]="'Booking'">{{ 'Booking' }}</span>
 						</p>
 						<h2 class="mt-3 text-[1.5rem] font-semibold text-[var(--c-text-secondary)]">
-							<span [translate]="'Confirm current menu and visit details'">{{
-								'Confirm current menu and visit details'
+							<span [translate]="'Book or check current availability'">{{
+								'Book or check current availability'
 							}}</span>
 						</h2>
 						<p class="mt-3 text-sm leading-7 text-[var(--c-text-muted)]">
 							<span
-								[translate]="'Call the public phone candidate or use Instagram/map links to confirm current menu, prices, table availability, delivery, football viewing and event conditions.'"
+								[translate]="'Call reception to confirm current rates, room setup, late arrival details, parking and availability for your travel dates.'"
 								>{{
-									'Call the public phone candidate or use Instagram/map links to confirm current menu, prices, table availability, delivery, football viewing and event conditions.'
+									'Call reception to confirm current rates, room setup, late arrival details, parking and availability for your travel dates.'
 								}}</span
 							>
 						</p>
@@ -227,7 +227,7 @@
 				<img
 					class="mx-auto h-auto w-24 opacity-90 sm:w-28"
 					ngSrc="logo.webp"
-					alt="Над Ставом"
+					alt="Horeca"
 					width="720"
 					height="720"
 				/>
@@ -240,22 +240,22 @@
 			<div
 				class="mx-auto inline-flex h-14 w-14 items-center justify-center rounded-full border border-[var(--c-border)] bg-[var(--c-bg-primary)] text-[var(--c-secondary)]"
 			>
-				<span class="material-symbols-outlined text-[28px]" aria-hidden="true">restaurant_menu</span>
+				<span class="material-symbols-outlined text-[28px]" aria-hidden="true">hotel</span>
 			</div>
 
 			<p
 				class="mt-4 text-[12px] font-semibold uppercase tracking-[0.18em] text-[var(--c-secondary)]"
 			>
-				<span [translate]="'Menu'">{{ 'Menu' }}</span>
+				<span [translate]="'Rooms'">{{ 'Rooms' }}</span>
 			</p>
 			<h1 class="mt-2 text-xl font-semibold text-[var(--c-text-secondary)]">
-				<span [translate]="'No menu items available at the moment'">{{
-					'No menu items available at the moment'
+				<span [translate]="'No rooms available at the moment'">{{
+					'No rooms available at the moment'
 				}}</span>
 			</h1>
 			<p class="mx-auto mt-2 max-w-[28rem] text-sm leading-6 text-[var(--c-text-muted)]">
-				<span [translate]="'Check back later for updated menu information.'">{{
-					'Check back later for updated menu information.'
+				<span [translate]="'Check back later for room updates and availability.'">{{
+					'Check back later for room updates and availability.'
 				}}</span>
 			</p>
 		</section>

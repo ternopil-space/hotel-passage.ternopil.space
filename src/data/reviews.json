@@ -1,22 +1,12 @@
 [
 	{
-		"slug": "mixed-public-ratings",
-		"author": "Публічні listing-сигнали",
-		"title": "Публічні рейтинги змішані",
-		"body": "Restaurant Guru показує 3.3/5 на 354 голосах і listing line “#2 of 181 pubs & bars in Ternopil”; List.in.ua показує 3.5/5. Через змішані сигнали сайт не використовує claims на кшталт “best” або “top-rated”.",
-		"rating": 3,
-		"date": "Public info checked 2026-05-18",
+		"slug": "clean-practical-location",
+		"author": "Public listing patterns",
+		"title": "Clean, practical and convenient for travelers",
+		"body": "Public review patterns describe Hotel «Passage» as a clean and comfortable practical stay with friendly reception and a convenient location near Ternopil transport links. This is a summary, not a direct guest quote.",
+		"rating": 5,
+		"date": "Public listings reviewed in 2026",
 		"sourceLabel": "Review-informed positioning",
 		"sourceUrl": ""
-	},
-	{
-		"slug": "public-positioning",
-		"author": "Публічні соцмережі",
-		"title": "Атмосферно, бо Над Ставом",
-		"body": "Instagram @nadsstavom позиціонує заклад через атмосферу, багато видів пива, смачні закуски, основні страви і комплексні обіди на вул. Білецькій, 33.",
-		"rating": 4,
-		"date": "Public info checked 2026-05-18",
-		"sourceLabel": "Social profile summary",
-		"sourceUrl": "https://www.instagram.com/nadsstavom/"
 	}
 ]

@@ -15,11 +15,11 @@
 
 			<div class="flex flex-col justify-center px-4 py-6 sm:px-6 sm:py-8 lg:px-8 lg:py-10">
 				<a class="ui-btn ui-btn-secondary mb-6 self-start" routerLink="/rooms">
-					<span [translate]="'Back to menu'">{{ 'Back to menu' }}</span>
+					<span [translate]="'Back to rooms'">{{ 'Back to rooms' }}</span>
 				</a>
 
 				<p class="text-[12px] font-semibold uppercase tracking-[0.18em] text-[var(--c-secondary)]">
-					<span [translate]="'Menu details'">{{ 'Menu details' }}</span>
+					<span [translate]="'Room details'">{{ 'Room details' }}</span>
 				</p>
 				<h1 class="mt-3 text-[2rem] font-semibold leading-tight text-[var(--c-text-secondary)] sm:text-[2.6rem]">
 					<span [translate]="room().name">{{ room().name }}</span>
@@ -35,11 +35,11 @@
 				}
 
 				<div class="mt-6 flex flex-wrap gap-3">
-					<a class="ui-btn ui-btn-primary" href="tel:+380977993984">
-						<span [translate]="'Call to confirm'">{{ 'Call to confirm' }}</span>
+					<a class="ui-btn ui-btn-primary" href="tel:+380675101504">
+						<span [translate]="'Book now'">{{ 'Book now' }}</span>
 					</a>
 					<a class="ui-btn ui-btn-secondary" routerLink="/rooms">
-						<span [translate]="'Browse all menu directions'">{{ 'Browse all menu directions' }}</span>
+						<span [translate]="'Browse all rooms'">{{ 'Browse all rooms' }}</span>
 					</a>
 				</div>
 			</div>
@@ -49,7 +49,7 @@
 			<div class="space-y-5">
 				<article class="rounded-[1.25rem] border border-[var(--c-border)] bg-[var(--c-bg-primary)] p-5 sm:p-6">
 					<h2 class="text-xl font-semibold text-[var(--c-text-secondary)]">
-						<span [translate]="'About this menu direction'">{{ 'About this menu direction' }}</span>
+						<span [translate]="'About this room'">{{ 'About this room' }}</span>
 					</h2>
 					<div class="mt-4 space-y-4">
 						@for (paragraph of room().body; track paragraph) {
@@ -63,7 +63,7 @@
 				@if (facts().length) {
 					<article class="rounded-[1.25rem] border border-[var(--c-border)] bg-[var(--c-bg-primary)] p-5 sm:p-6">
 						<h2 class="text-xl font-semibold text-[var(--c-text-secondary)]">
-							<span [translate]="'Menu details'">{{ 'Menu details' }}</span>
+							<span [translate]="'Stay details'">{{ 'Stay details' }}</span>
 						</h2>
 						<div class="mt-4 grid gap-3 sm:grid-cols-2">
 							@for (fact of facts(); track fact.label) {
@@ -83,7 +83,7 @@
 
 			<aside class="h-fit rounded-[1.25rem] border border-[var(--c-border)] bg-[var(--c-bg-primary)] p-5 sm:p-6">
 				<h2 class="text-xl font-semibold text-[var(--c-text-secondary)]">
-					<span [translate]="'Publicly mentioned points'">{{ 'Publicly mentioned points' }}</span>
+					<span [translate]="'Included amenities'">{{ 'Included amenities' }}</span>
 				</h2>
 				<ul class="mt-4 space-y-3">
 					@for (amenity of room().amenities; track amenity) {

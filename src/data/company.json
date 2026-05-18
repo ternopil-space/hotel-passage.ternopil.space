@@ -1,26 +1,25 @@
 {
-	"_id": "nad-stavom-ternopil",
-	"name": "Над Ставом",
+	"_id": "hotel-passage-ternopil",
+	"name": "Hotel «Passage»",
 	"lang": "uk",
 	"locale": "uk_UA",
 	"siteUrl": "https://hotel-passage.ternopil.space",
 	"logo": "/logo.webp",
-	"phone": "+380 97 799 3984",
+	"phone": "+38 067 510-15-04",
 	"email": "",
-	"address": "вулиця Білецька, 33, Тернопіль, Тернопільська область, Україна, 46003",
+	"address": "Torgovytsia / Anatoliia Zhyvova / Zhyvova Street 7, Ternopil, Ukraine",
 	"defaultSeo": {
-		"title": "Над Ставом Тернопіль - паб на Білецькій, 33",
-		"description": "Над Ставом у Тернополі - фірмовий паб від Опілля на вулиці Білецькій, 33. Пиво, закуски, основні страви, комплексні обіди, тераса і перегляд футболу.",
+		"title": "Hotel «Passage» Ternopil - rooms near the central bus station",
+		"description": "Hotel «Passage» in Ternopil offers 26 practical rooms near the central bus station, with 24/7 reception, Wi-Fi, parking options, private bathrooms and direct phone booking.",
 		"keywords": [
-			"Над Ставом Тернопіль",
-			"Nad Stavom Ternopil",
-			"паб Над Ставом",
-			"паб Білецька 33",
-			"фірмовий паб Опілля",
-			"пиво Тернопіль",
-			"комплексні обіди Тернопіль"
+			"Hotel Passage Ternopil",
+			"Passage Hotel Ternopil",
+			"готель Пассаж Тернопіль",
+			"hotel near Ternopil bus station",
+			"rooms in Ternopil",
+			"Torgovytsia 7 hotel"
 		],
-		"author": "Над Ставом",
+		"author": "Hotel «Passage»",
 		"robots": "index, follow",
 		"image": "/logo.webp",
 		"type": "website",
@@ -28,134 +27,124 @@
 	},
 	"pageSeo": {
 		"/": {
-			"title": "Над Ставом Тернопіль - паб на Білецькій, 33",
-			"description": "Фірмовий паб від Опілля у Тернополі: пиво, закуски, основні страви, комплексні обіди, тераса і невимушена атмосфера біля ставу.",
-			"image": "/logo.webp"
+			"title": "Hotel «Passage» Ternopil - rooms near the central bus station",
+			"description": "Comfortable city hotel in Ternopil with 26 rooms, 24/7 reception, Wi-Fi and easy access to the central bus station.",
+			"image": "/room/standard-double-attic.webp"
 		},
 		"/rooms": {
-			"title": "Меню та страви | Над Ставом Тернопіль",
-			"description": "Публічно згадані напрямки меню Над Ставом: пиво, закуски, основні страви, українська та європейська кухня, гриль і комплексні обіди.",
-			"image": "/logo.webp"
+			"title": "Rooms at Hotel «Passage» Ternopil",
+			"description": "Standard, deluxe, twin, triple and family room categories at Hotel «Passage» in Ternopil. Private bathroom, air conditioning, TV and kettle in key room types.",
+			"image": "/room/deluxe-double.webp"
 		},
 		"/navigation": {
-			"title": "Навігація сайту | Над Ставом",
-			"description": "Швидкі посилання на контакти, меню, послуги, FAQ, події та інформацію про паб Над Ставом у Тернополі.",
+			"title": "Site navigation | Hotel «Passage» Ternopil",
+			"description": "Quick links to rooms, contacts, hotel rules, FAQ, articles and guest information for Hotel «Passage».",
 			"robots": "noindex, follow",
 			"image": "/logo.webp"
 		},
 		"/gallery": {
-			"title": "Галерея | Над Ставом",
-			"description": "Візуальний контекст пабу Над Ставом: напої, їжа, інтерʼєр, екстерʼєр і атмосфера закладу.",
-			"image": "/logo.webp"
+			"title": "Hotel «Passage» gallery",
+			"description": "Photo placeholders and visual context for rooms, reception and guest areas at Hotel «Passage» in Ternopil.",
+			"image": "/gallery/demo-1.webp"
 		},
 		"/discounts": {
-			"title": "Пропозиції | Над Ставом Тернопіль",
-			"description": "Обережно сформульовані пропозиції для обідів, пива, переглядів матчів і компаній. Актуальні умови варто підтвердити у закладі.",
-			"image": "/logo.webp"
+			"title": "Hotel offers | Hotel «Passage» Ternopil",
+			"description": "Suggested direct booking, longer stay, business travel and family stay offers for Hotel «Passage». Confirm active terms by phone.",
+			"image": "/room/family-triple.webp"
 		},
 		"/loyalty": {
-			"title": "Постійним гостям | Над Ставом",
-			"description": "Простий розділ для гостей, які повертаються у паб Над Ставом і хочуть уточнити актуальні пропозиції.",
+			"title": "Returning guest advantages | Hotel «Passage»",
+			"description": "Simple returning guest advantages for direct bookings and repeat stays at Hotel «Passage» in Ternopil.",
 			"image": "/logo.webp"
 		},
 		"/articles": {
-			"title": "Нотатки про паб | Над Ставом",
-			"description": "Практичні нотатки про пиво, обіди, перегляд футболу, компанії та атмосферу Над Ставом у Тернополі.",
-			"image": "/logo.webp"
+			"title": "Ternopil travel notes | Hotel «Passage»",
+			"description": "Practical articles for guests arriving by bus or rail, staying overnight in Ternopil, and exploring nearby Topilche.",
+			"image": "/gallery/demo-2.webp"
 		},
 		"/quests": {
-			"title": "Гостьові підказки | Над Ставом",
-			"description": "Короткі підказки для гостей пабу: як спланувати обід, вечір з друзями або перегляд матчу.",
-			"image": "/logo.webp"
+			"title": "Guest mini guides | Hotel «Passage»",
+			"description": "Simple local orientation ideas and family-friendly city stay prompts for guests of Hotel «Passage».",
+			"image": "/gallery/demo-3.webp"
 		},
 		"/questions": {
-			"title": "FAQ | Над Ставом Тернопіль",
-			"description": "Відповіді про адресу, години роботи, пиво, їжу, терасу, бронювання, доставку, паркування і соцмережі пабу Над Ставом.",
+			"title": "FAQ | Hotel «Passage» Ternopil",
+			"description": "Answers about check-in, check-out, 24/7 reception, parking, Wi-Fi, meals, family rooms and how to reach Hotel «Passage».",
 			"image": "/logo.webp"
 		},
 		"/rules": {
-			"title": "Правила закладу | Над Ставом",
-			"description": "Прості правила для комфортного відвідування пабу Над Ставом: години, бронювання, тераса, доставка, події і перевірка актуальних умов.",
+			"title": "Hotel rules | Hotel «Passage» Ternopil",
+			"description": "Practical stay rules for check-in, check-out, quiet hours, non-smoking rooms, parking and guest comfort at Hotel «Passage».",
 			"image": "/logo.webp"
 		},
 		"/reviews": {
-			"title": "Публічні відгуки | Над Ставом",
-			"description": "Обережний підсумок публічних рейтингів і змішаних review-сигналів для Над Ставом без заяв про найкращість.",
+			"title": "Guest impressions | Hotel «Passage»",
+			"description": "Review-informed summary of the practical, clean and convenient stay experience at Hotel «Passage» in Ternopil.",
 			"image": "/logo.webp"
 		},
 		"/events": {
-			"title": "Події та компанії | Над Ставом",
-			"description": "Ідеї для перегляду футболу, обіду, вечора з друзями та невеликих свят у пабі Над Ставом.",
-			"image": "/logo.webp"
+			"title": "Guest plans and local stays | Hotel «Passage»",
+			"description": "Hotel-context guest plans for transit stays, business trips and family weekends in Ternopil.",
+			"image": "/room/improved-family-triple.webp"
 		},
 		"/products": {
-			"title": "Послуги | Над Ставом Тернопіль",
-			"description": "Публічно згадані можливості: тераса, Wi-Fi, паркування, TV, перегляд футболу, take away, доставка і бронювання.",
+			"title": "Hotel services | Hotel «Passage» Ternopil",
+			"description": "Practical hotel services and amenities: 24/7 reception, Wi-Fi, parking options, housekeeping, elevator and family rooms.",
 			"image": "/logo.webp"
 		},
 		"/jobs": {
-			"title": "Вакансії | Над Ставом Тернопіль",
-			"description": "Шаблон сторінки вакансій для пабу Над Ставом. Активні вакансії потрібно підтвердити у власника.",
+			"title": "Hotel jobs | Hotel «Passage» Ternopil",
+			"description": "Hotel reception, housekeeping and service role information for Hotel «Passage» in Ternopil.",
 			"image": "/logo.webp"
 		},
 		"/team": {
-			"title": "Команда | Над Ставом Тернопіль",
-			"description": "Командні ролі пабу Над Ставом без вигаданих персональних імен: зал, кухня, бронювання і гостьова підтримка.",
+			"title": "Hotel team | Hotel «Passage» Ternopil",
+			"description": "Reception, housekeeping and guest support team roles at Hotel «Passage» in Ternopil.",
 			"image": "/logo.webp"
 		},
 		"/socials": {
-			"title": "Контакти | Над Ставом Тернопіль",
-			"description": "Адреса, телефон-кандидат з публічних джерел, Instagram @nadsstavom, Facebook-сторінка і Google Maps для Над Ставом.",
+			"title": "Contacts | Hotel «Passage» Ternopil",
+			"description": "Phone, address, Instagram and map contact details for Hotel «Passage» at Torgovytsia / Zhyvova 7 in Ternopil.",
 			"image": "/logo.webp"
 		},
 		"/contacts": {
-			"title": "Контакти | Над Ставом Тернопіль",
-			"description": "Знайдіть паб Над Ставом на Білецькій, 33 у Тернополі. Години роботи публічно вказані 11:00-23:00 щодня.",
+			"title": "Contacts | Hotel «Passage» Ternopil",
+			"description": "Book by phone, request availability and find Hotel «Passage» near Ternopil central bus station.",
 			"image": "/logo.webp"
 		},
 		"/about": {
-			"title": "Про Над Ставом Тернопіль",
-			"description": "Над Ставом - фірмовий паб від Опілля у Тернополі з пивом, закусками, стравами, обідами і атмосферою біля ставу.",
-			"image": "/logo.webp"
+			"title": "About Hotel «Passage» Ternopil",
+			"description": "About Hotel «Passage»: a practical city hotel near Ternopil central bus station for transit, business and family stays.",
+			"image": "/gallery/demo-1.webp"
 		}
 	},
 	"structuredData": {
-		"type": "Restaurant",
+		"type": "Hotel",
 		"priceRange": "$$",
-		"servesCuisine": "Ukrainian, European, Grill, Pub food",
+		"servesCuisine": "",
 		"addressLocality": "Ternopil",
 		"addressCountry": "UA",
 		"sameAs": [
-			"https://www.instagram.com/nadsstavom/",
-			"https://maps.app.goo.gl/P3iGmyqzQQkoJRAeA"
+			"https://www.instagram.com/hotel_passage/"
 		],
 		"custom": {
-			"@type": "BarOrPub",
-			"legalName": "Над Ставом",
+			"@type": "Hotel",
+			"legalName": "Готель «Пассаж»",
 			"alternateName": [
-				"Nad Stavom",
-				"Над Ставом • Фірмовий Паб"
+				"Passage Hotel",
+				"Готель «Пассаж»"
 			],
+			"telephone": "+38 067 510-15-04",
+			"alternateTelephone": "+38 096 947-76-72",
 			"address": {
 				"@type": "PostalAddress",
-				"streetAddress": "вулиця Білецька, 33",
-				"addressLocality": "Тернопіль",
-				"postalCode": "46003",
-				"addressRegion": "Тернопільська область",
+				"streetAddress": "Torgovytsia / Anatoliia Zhyvova / Zhyvova Street 7",
+				"addressLocality": "Ternopil",
 				"addressCountry": "UA"
 			},
-			"openingHours": [
-				"Mo-Su 11:00-23:00"
-			],
-			"hasMap": "https://maps.app.goo.gl/P3iGmyqzQQkoJRAeA",
-			"servesCuisine": [
-				"Ukrainian cuisine",
-				"European cuisine",
-				"Grill dishes",
-				"Beer",
-				"Pub snacks"
-			],
-			"acceptsReservations": true
+			"numberOfRooms": 26,
+			"checkinTime": "14:00",
+			"checkoutTime": "12:00"
 		}
 	}
 }

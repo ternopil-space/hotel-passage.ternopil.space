@@ -55,9 +55,9 @@ interface LoyaltyPageData {
 }
 
 const LOYALTY_TRANSLATION_PATH = '/i18n/loyalty';
-const BENEFIT_ICONS = ['call', 'sports_bar', 'restaurant', 'event_seat', 'groups', 'local_parking', 'workspace_premium'];
+const BENEFIT_ICONS = ['call', 'hotel', 'directions_bus', 'business_center', 'family_restroom', 'local_parking', 'groups'];
 const REWARD_ICONS = [
-	'sports_bar',
+	'hotel',
 	'call',
 	'directions_bus',
 	'event_available',

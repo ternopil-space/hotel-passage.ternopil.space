@@ -1,65 +1,65 @@
 [
 	{
-		"slug": "football-viewing",
-		"title": "Перегляд футболу",
-		"summary": "План вечора для гостей, які хочуть дивитися матч у пабному форматі.",
-		"dateLabel": "За розкладом матчів",
-		"timeLabel": "У межах 11:00-23:00",
-		"location": "Над Ставом, Білецька 33, Тернопіль",
-		"format": "Пабний вечір",
-		"capacity": "Столи за наявністю",
-		"ctaLabel": "Уточнити трансляцію",
-		"ctaHref": "tel:+380977993984",
+		"slug": "overnight-transit-plan",
+		"title": "Overnight transit plan",
+		"summary": "A practical stay plan for guests arriving at Ternopil bus station and leaving the next morning.",
+		"dateLabel": "Plan any travel date",
+		"timeLabel": "Check-in from 14:00",
+		"location": "Hotel «Passage», Torgovytsia / Zhyvova 7",
+		"format": "Transit stay",
+		"capacity": "26 rooms in public listings",
+		"ctaLabel": "Call reception",
+		"ctaHref": "tel:+380675101504",
 		"body": [
-			"TV і football match viewing згадані публічно.",
-			"Конкретну трансляцію, стіл і час потрібно підтвердити перед візитом."
+			"This is not a hosted event; it is a guest plan for using the hotel conveniently during a transit stop.",
+			"Confirm room availability and arrival time before travel, especially for late arrivals or early departures."
 		],
 		"highlights": [
-			"TV",
-			"Футбол",
-			"Пиво і закуски"
+			"Near central bus station",
+			"24/7 reception listed publicly",
+			"Check-out until 12:00"
 		]
 	},
 	{
-		"slug": "complex-lunch-visit",
-		"title": "Обід на Білецькій",
-		"summary": "Денний сценарій для гостей, які шукають комплексний обід у районі Білецької.",
-		"dateLabel": "Щодня за актуальністю",
-		"timeLabel": "Години уточнюються",
-		"location": "Над Ставом, Білецька 33, Тернопіль",
-		"format": "Обід",
-		"capacity": "За наявністю місць",
-		"ctaLabel": "Уточнити меню",
-		"ctaHref": "tel:+380977993984",
+		"slug": "business-trip-base",
+		"title": "Business trip base in Ternopil",
+		"summary": "A simple stay plan for work travelers who need transport access, Wi-Fi and a practical room.",
+		"dateLabel": "Weekday stays",
+		"timeLabel": "By availability",
+		"location": "Ternopil, near central bus station",
+		"format": "Business stay",
+		"capacity": "Single, double and twin options",
+		"ctaLabel": "Request availability",
+		"ctaHref": "tel:+380675101504",
 		"body": [
-			"Комплексні обіди згадані в Instagram @nadsstavom.",
-			"Склад, ціна і подача можуть змінюватися, тому точні дані треба підтвердити."
+			"Business guests should confirm Wi-Fi, desk availability by room category, parking options and receipt/payment details before arrival.",
+			"The location is practical when transport access matters more than resort-style amenities."
 		],
 		"highlights": [
-			"Комплексні обіди",
-			"Основні страви",
-			"Адреса Білецька, 33"
+			"Wi-Fi/internet listed publicly",
+			"Work desk in many rooms by public listing notes",
+			"Easy transport access"
 		]
 	},
 	{
-		"slug": "small-celebration",
-		"title": "Невелике святкування",
-		"summary": "Обережний сценарій для компаній і спеціальних подій у пабі.",
-		"dateLabel": "За домовленістю",
-		"timeLabel": "У межах графіка",
-		"location": "Над Ставом, Білецька 33, Тернопіль",
-		"format": "Компанія / подія",
-		"capacity": "До 40 людей згадано публічно, перевірити",
-		"ctaLabel": "Обговорити умови",
-		"ctaHref": "tel:+380977993984",
+		"slug": "family-weekend-stop",
+		"title": "Family weekend stop",
+		"summary": "A practical family stay concept using triple and family room categories near central Ternopil.",
+		"dateLabel": "Weekend or holiday dates",
+		"timeLabel": "By availability",
+		"location": "Hotel «Passage»",
+		"format": "Family stay",
+		"capacity": "Triple and family categories",
+		"ctaLabel": "Ask about family rooms",
+		"ctaHref": "tel:+380675101504",
 		"body": [
-			"Публічні джерела згадують celebrations / special events up to 40 people.",
-			"Місткість, меню, депозит і правила бронювання потрібно підтвердити з власником."
+			"Families can ask about Family room Triple and Family room Triple improved categories.",
+			"Confirm exact bed setup, room view, current rate and any child-related needs directly with reception."
 		],
 		"highlights": [
-			"Компанії",
-			"Святкування",
-			"Меню за домовленістю"
+			"Family room categories listed publicly",
+			"Private bathroom and room comforts",
+			"Central Ternopil access"
 		]
 	}
 ]

@@ -40,10 +40,10 @@ export class RoomComponent {
 	});
 	protected readonly facts = computed(() =>
 		[
-			{ label: 'Category', value: this.room().size },
-			{ label: 'Best for', value: this.room().occupancy },
-			{ label: 'Menu note', value: this.room().bed },
-			{ label: 'Status', value: this.room().bathroom },
+			{ label: 'Room size', value: this.room().size },
+			{ label: 'Occupancy', value: this.room().occupancy },
+			{ label: 'Bed', value: this.room().bed },
+			{ label: 'Bathroom', value: this.room().bathroom },
 		].filter((fact) => fact.value),
 	);
 
@@ -73,7 +73,7 @@ function _resolveFallbackRoom(): Room {
 	const room = findFallbackRoomBySlug('');
 
 	if (!room) {
-		throw new Error('No menu data available.');
+		throw new Error('No rooms available in room data.');
 	}
 
 	return room;

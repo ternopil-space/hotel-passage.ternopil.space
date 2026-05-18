@@ -1,17 +1,17 @@
 [
 	{
-		"slug": "logo-preview",
-		"src": "/logo.webp",
-		"alt": "Логотип Над Ставом"
+		"slug": "room-preview",
+		"src": "/room/standard-double-attic.webp",
+		"alt": "Room category preview for Hotel Passage"
 	},
 	{
-		"slug": "pub-atmosphere",
+		"slug": "reception-context",
 		"src": "/gallery/demo-1.webp",
-		"alt": "Паб Над Ставом атмосфера і зал"
+		"alt": "Reception and check-in context for Hotel Passage"
 	},
 	{
-		"slug": "food-and-drink-context",
+		"slug": "ternopil-location",
 		"src": "/gallery/demo-2.webp",
-		"alt": "Пиво, закуски і страви Над Ставом"
+		"alt": "Ternopil city stay and location context"
 	}
 ]

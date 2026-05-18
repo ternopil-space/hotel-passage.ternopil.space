@@ -1,60 +1,61 @@
 [
 	{
-		"slug": "lunch-checklist",
-		"title": "Чеклист обіду",
-		"audience": "Гості на обід",
-		"ageRange": "Adults",
-		"summary": "Коротка підказка перед візитом на комплексний обід.",
-		"duration": "5 хвилин",
-		"format": "Самостійна підказка",
-		"price": "Безкоштовно",
+		"slug": "family-city-walk-plan",
+		"title": "Family city walk plan",
+		"audience": "Families",
+		"ageRange": "All ages",
+		"summary": "A simple stay idea for families who want a light walk toward central Ternopil or Hydropark Topilche.",
+		"duration": "30-90 minutes",
+		"format": "Self-guided local orientation",
+		"price": "Free, self-guided",
 		"difficulty": "Easy",
-		"groupSize": "1-4 гості",
-		"ctaLabel": "Уточнити меню",
-		"ctaHref": "tel:+380977993984",
+		"groupSize": "Family or small group",
+		"ctaLabel": "Ask reception for directions",
+		"ctaHref": "tel:+380675101504",
 		"body": [
-			"Це не квест, а практичний чеклист для гостей.",
-			"Допомагає не публікувати непідтверджені ціни і меню."
+			"This is a guest mini guide rather than a paid quest.",
+			"Ask reception about the safest current walking route, especially with children or luggage."
 		],
 		"steps": [
-			"Перевірити години 11:00-23:00",
-			"Уточнити поточний комплексний обід",
-			"Зберегти адресу Білецька, 33",
-			"Прокласти маршрут"
+			"Confirm route at reception",
+			"Choose city center or Topilche direction",
+			"Keep the hotel address saved",
+			"Return before quiet hours"
 		],
 		"highlights": [
-			"Комплексні обіди",
-			"Адреса",
-			"Актуальні умови"
+			"Family-friendly orientation",
+			"Nearby city context",
+			"No paid activity implied"
 		]
 	},
 	{
-		"slug": "football-table-checklist",
-		"title": "Чеклист футбольного вечора",
-		"audience": "Компанії",
+		"slug": "transit-checklist",
+		"title": "Transit guest checklist",
+		"audience": "Transit travelers",
 		"ageRange": "Adults",
-		"summary": "Що уточнити перед переглядом матчу в пабі.",
-		"duration": "5 хвилин",
-		"format": "Підказка",
-		"price": "Безкоштовно",
+		"summary": "A practical checklist for guests using the bus station or railway station during a short stay.",
+		"duration": "5 minutes",
+		"format": "Arrival checklist",
+		"price": "Free",
 		"difficulty": "Easy",
-		"groupSize": "2-8 гостей",
-		"ctaLabel": "Уточнити трансляцію",
-		"ctaHref": "tel:+380977993984",
+		"groupSize": "Solo or group",
+		"ctaLabel": "Call reception",
+		"ctaHref": "tel:+380675101504",
 		"body": [
-			"TV і перегляд футболу згадані публічно.",
-			"Конкретний матч, стіл і час краще підтвердити напряму."
+			"This checklist helps guests reduce friction before arrival.",
+			"It keeps important details crawlable without inventing a booking engine."
 		],
 		"steps": [
-			"Уточнити чи показують матч",
-			"Запитати про стіл",
-			"Уточнити меню і закуски",
-			"Прийти за адресою Білецька, 33"
+			"Call to confirm availability",
+			"Save phone and address",
+			"Confirm check-in time",
+			"Ask about parking if needed",
+			"Confirm check-out time"
 		],
 		"highlights": [
-			"Футбол",
-			"Стіл",
-			"Пиво і закуски"
+			"Practical before arrival",
+			"Useful for bus and rail travelers",
+			"Clear contact action"
 		]
 	}
 ]

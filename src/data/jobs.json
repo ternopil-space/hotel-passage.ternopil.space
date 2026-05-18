@@ -1,128 +1,128 @@
 [
 	{
-		"slug": "server-bartender",
-		"title": "Офіціант / бармен",
-		"department": "Зал і бар",
-		"summary": "Гостьова роль для роботи з відвідувачами, напоями, замовленнями і столами.",
-		"location": "Тернопіль, Білецька 33",
-		"employmentType": "За домовленістю",
-		"schedule": "Зміни уточнюються",
-		"salary": "Підтвердити з власником",
-		"experience": "Досвід у HoReCa бажаний",
+		"slug": "front-desk-receptionist",
+		"title": "Front desk receptionist",
+		"department": "Hotel reception",
+		"summary": "Guest-facing reception role focused on calls, arrivals, check-in, check-out and practical room information.",
+		"location": "Ternopil, Ukraine",
+		"employmentType": "Full-time / shift schedule",
+		"schedule": "Shift schedule",
+		"salary": "Confirm with hotel management",
+		"experience": "Hospitality experience preferred",
+		"level": "Middle",
+		"workFormat": "On-site",
+		"applyUrl": "tel:+380675101504",
+		"applyLabel": "Call the hotel",
+		"contactEmail": "",
+		"contactPhone": "+38 067 510-15-04",
+		"responsibilities": [
+			"Welcome guests and answer phone inquiries",
+			"Support check-in from 14:00 and check-out until 12:00",
+			"Explain room categories, availability and hotel rules",
+			"Coordinate with housekeeping"
+		],
+		"requirements": [
+			"Clear Ukrainian communication",
+			"Basic computer and phone skills",
+			"Calm guest-service attitude",
+			"Attention to booking details"
+		],
+		"benefits": [
+			"Central Ternopil location",
+			"Practical hotel experience",
+			"Team-based shift work"
+		],
+		"body": [
+			"This page is a hotel-context vacancy template for Passage Hotel. Confirm whether the role is currently open before publishing it as active hiring."
+		],
+		"highlights": [
+			"Reception and calls",
+			"Check-in and check-out",
+			"Guest support"
+		]
+	},
+	{
+		"slug": "housekeeping-attendant",
+		"title": "Housekeeping attendant",
+		"department": "Housekeeping",
+		"summary": "Room cleanliness role supporting daily housekeeping and guest comfort in a compact city hotel.",
+		"location": "Ternopil, Ukraine",
+		"employmentType": "Full-time / part-time",
+		"schedule": "Shift schedule",
+		"salary": "Confirm with hotel management",
+		"experience": "Experience preferred",
 		"level": "Junior / Middle",
-		"workFormat": "На місці",
-		"applyUrl": "tel:+380977993984",
-		"applyLabel": "Зателефонувати",
+		"workFormat": "On-site",
+		"applyUrl": "tel:+380675101504",
+		"applyLabel": "Call the hotel",
 		"contactEmail": "",
-		"contactPhone": "+380 97 799 3984",
+		"contactPhone": "+38 067 510-15-04",
 		"responsibilities": [
-			"Приймати замовлення гостей",
-			"Допомагати із напоями та стравами",
-			"Підтримувати порядок у залі",
-			"Комунікувати з кухнею"
+			"Prepare rooms for arrivals",
+			"Support daily housekeeping",
+			"Report maintenance or supply needs",
+			"Keep shared areas tidy"
 		],
 		"requirements": [
-			"Ввічлива українська комунікація",
-			"Уважність до замовлень",
-			"Готовність до змінної роботи",
-			"Базове розуміння сервісу"
+			"Attention to cleanliness",
+			"Reliability and punctuality",
+			"Respect for guest privacy",
+			"Ability to follow room standards"
 		],
 		"benefits": [
-			"Пабний формат",
-			"Локація у Тернополі",
-			"Командна робота"
+			"Stable hotel workflow",
+			"Central location",
+			"Team support"
 		],
 		"body": [
-			"Це шаблон вакансії. Активний найм, умови і зарплату потрібно підтвердити у власника."
+			"Housekeeping is central to the clean, practical stay positioning of Hotel «Passage». Confirm hiring status before publishing."
 		],
 		"highlights": [
-			"Зал",
-			"Бар",
-			"Гості"
+			"Room preparation",
+			"Daily cleaning",
+			"Guest comfort"
 		]
 	},
 	{
-		"slug": "cook-kitchen",
-		"title": "Кухар",
-		"department": "Кухня",
-		"summary": "Роль для приготування закусок, основних страв, обідів і гриль-позицій за підтвердженим меню.",
-		"location": "Тернопіль, Білецька 33",
-		"employmentType": "За домовленістю",
-		"schedule": "Зміни уточнюються",
-		"salary": "Підтвердити з власником",
-		"experience": "Досвід на кухні бажаний",
-		"level": "Middle",
-		"workFormat": "На місці",
-		"applyUrl": "tel:+380977993984",
-		"applyLabel": "Зателефонувати",
+		"slug": "hotel-support-staff",
+		"title": "Hotel support staff",
+		"department": "Guest service",
+		"summary": "Flexible on-site support role for guest requests, basic coordination and practical hotel operations.",
+		"location": "Ternopil, Ukraine",
+		"employmentType": "By agreement",
+		"schedule": "By agreement",
+		"salary": "Confirm with hotel management",
+		"experience": "Hospitality or service experience is useful",
+		"level": "Junior / Middle",
+		"workFormat": "On-site",
+		"applyUrl": "tel:+380675101504",
+		"applyLabel": "Call the hotel",
 		"contactEmail": "",
-		"contactPhone": "+380 97 799 3984",
+		"contactPhone": "+38 067 510-15-04",
 		"responsibilities": [
-			"Готувати страви за меню",
-			"Дотримуватися санітарних норм",
-			"Підтримувати кухонний процес",
-			"Контролювати заготовки"
+			"Support reception and housekeeping when needed",
+			"Help guests with practical questions",
+			"Keep service areas orderly",
+			"Escalate maintenance or security questions"
 		],
 		"requirements": [
-			"Досвід кухні або готовність навчатися",
-			"Охайність",
-			"Відповідальність",
-			"Командність"
+			"Polite communication",
+			"Responsible attitude",
+			"Readiness for on-site work",
+			"Basic hospitality awareness"
 		],
 		"benefits": [
-			"Робота з пабним меню",
-			"Локальний заклад",
-			"Стабільний процес за домовленістю"
+			"Practical hotel experience",
+			"Guest communication practice",
+			"Central Ternopil workplace"
 		],
 		"body": [
-			"Публікувати як активну вакансію тільки після підтвердження власника."
+			"Use this role only as a general hotel-team page unless the client confirms an active vacancy."
 		],
 		"highlights": [
-			"Кухня",
-			"Закуски",
-			"Основні страви"
-		]
-	},
-	{
-		"slug": "guest-support",
-		"title": "Адміністратор / гостьова підтримка",
-		"department": "Гостьовий сервіс",
-		"summary": "Координація бронювань, дзвінків, компаній і поточних питань гостей.",
-		"location": "Тернопіль, Білецька 33",
-		"employmentType": "За домовленістю",
-		"schedule": "Зміни уточнюються",
-		"salary": "Підтвердити з власником",
-		"experience": "HoReCa досвід корисний",
-		"level": "Middle",
-		"workFormat": "На місці",
-		"applyUrl": "tel:+380977993984",
-		"applyLabel": "Зателефонувати",
-		"contactEmail": "",
-		"contactPhone": "+380 97 799 3984",
-		"responsibilities": [
-			"Відповідати на дзвінки",
-			"Уточнювати бронювання",
-			"Координувати компанії та події",
-			"Передавати питання залу й кухні"
-		],
-		"requirements": [
-			"Організованість",
-			"Спокійна комунікація",
-			"Уважність до деталей",
-			"Знання актуальних умов закладу"
-		],
-		"benefits": [
-			"Комунікаційна роль",
-			"Робота з гостями",
-			"Практика HoReCa"
-		],
-		"body": [
-			"Вакансія є контентним шаблоном до підтвердження активного найму."
-		],
-		"highlights": [
-			"Дзвінки",
-			"Бронювання",
-			"Події"
+			"Guest support",
+			"On-site operations",
+			"Team coordination"
 		]
 	}
 ]
