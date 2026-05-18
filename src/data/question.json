@@ -1,50 +1,42 @@
 [
 	{
-		"question": "Where is Hotel «Passage» located?",
-		"answer": "The hotel address is Torgovytsia / Anatoliia Zhyvova / Zhyvova Street 7, Ternopil, Ukraine, next to or very close to the central bus station."
+		"question": "Де знаходиться Над Ставом?",
+		"answer": "Адреса: вулиця Білецька, 33, Тернопіль, Тернопільська область, Україна, 46003. Також надане Google Maps посилання: https://maps.app.goo.gl/P3iGmyqzQQkoJRAeA."
 	},
 	{
-		"question": "How many rooms does the hotel have?",
-		"answer": "Public listings for Hotel «Passage» mention 26 rooms."
+		"question": "Які години роботи?",
+		"answer": "Публічно вказані години: щодня з 11:00 до 23:00. List.in.ua також зазначає без перерви."
 	},
 	{
-		"question": "What are check-in and check-out times?",
-		"answer": "Check-in is listed from 14:00 to 24:00, and check-out is listed until 12:00."
+		"question": "Який основний телефон?",
+		"answer": "Публічні джерела конфліктують. Найчастіше повторений кандидат: +380 97 799 3984. Перед офіційною публікацією номер має підтвердити власник."
 	},
 	{
-		"question": "Is reception open 24/7?",
-		"answer": "Yes. Hotels24 and local directory listings mention 24/7 reception."
+		"question": "Чи є Instagram?",
+		"answer": "Для тернопільського закладу на Білецькій, 33 використовуйте @nadsstavom. Профіль @nad_stavom виглядає неоднозначним і, ймовірно, належить іншому бізнесу."
 	},
 	{
-		"question": "How can I book or check availability?",
-		"answer": "Call the primary listed phone number +38 067 510-15-04 to request availability, current rates and room category details."
+		"question": "Що є в меню?",
+		"answer": "Публічно згадані пиво, багато видів пива, закуски, основні страви, комплексні обіди, українська та європейська кухня, гриль. Точне меню і ціни потрібно підтвердити у власника."
 	},
 	{
-		"question": "Is there Wi-Fi?",
-		"answer": "Wi-Fi/internet is listed among the hotel services. Ask reception for access details during check-in."
+		"question": "Чи можна дивитися футбол?",
+		"answer": "TV і перегляд футбольних матчів згадані публічно. Конкретні трансляції та бронювання столу варто уточнювати заздалегідь."
 	},
 	{
-		"question": "Is parking available?",
-		"answer": "Public listings mention parking or street parking. Confirm current parking details with reception before arrival."
+		"question": "Чи є тераса?",
+		"answer": "Outdoor seating / літній майданчик згадані у публічних джерелах. Сезонність і доступність місць потрібно уточнювати."
 	},
 	{
-		"question": "Are meals provided at the hotel?",
-		"answer": "Hotels24 says meals are not provided at the hotel, and nearby food options are available. Some public aggregators mention breakfast-in-room or room service, so confirm before publishing or relying on this as an active service."
+		"question": "Чи є доставка або самовивіз?",
+		"answer": "Delivery, food delivery і takeaway згадані публічно, але активна платформа, зона доставки та правила не підтверджені."
 	},
 	{
-		"question": "Does the hotel have family rooms?",
-		"answer": "Yes. Public room categories include Family room Triple and Family room Triple improved."
+		"question": "Чи можна проводити події?",
+		"answer": "Публічно згадані свята і спеціальні події до 40 людей. Це потрібно підтвердити у закладі перед публікацією або бронюванням."
 	},
 	{
-		"question": "Are rooms non-smoking?",
-		"answer": "Public listings mention non-smoking rooms. Confirm your preference with reception when booking."
-	},
-	{
-		"question": "Are pets allowed?",
-		"answer": "Pet policy is not confirmed enough to present as official here. Please call the hotel before arriving with a pet."
-	},
-	{
-		"question": "How far is the railway station?",
-		"answer": "Hotels24 public information places the railway station and central area at about 1.5 km from the hotel."
+		"question": "Чи можна використовувати фото з каталогів або соцмереж?",
+		"answer": "Ні, без дозволу власника або правовласника не копіюйте фото з Google Maps, Facebook, Instagram, Restaurant Guru чи каталогів."
 	}
 ]

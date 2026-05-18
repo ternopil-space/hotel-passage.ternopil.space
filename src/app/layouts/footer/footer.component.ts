@@ -11,7 +11,7 @@ import { TranslateDirective } from '@wawjs/ngx-translate';
 export class FooterComponent {
 	protected readonly navItems = [
 		{ label: 'Nav', icon: 'navigation', route: '/navigation', exact: true },
-		{ label: 'Rooms', icon: 'hotel', route: '/rooms', exact: true },
+		{ label: 'Menu', icon: 'restaurant_menu', route: '/rooms', exact: true },
 		{ label: 'Contact', icon: 'call', route: '/contacts', exact: true },
 		{ label: 'About', icon: 'info', route: '/about', exact: true },
 		{ label: 'FAQ', icon: 'help', route: '/questions', exact: true },

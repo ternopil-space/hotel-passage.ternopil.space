@@ -20,19 +20,19 @@ export class RoomsComponent {
 	private readonly _roomService = inject(RoomService);
 
 	protected readonly amenities = [
-		'26 rooms',
-		'24/7 reception',
-		'Private bathroom',
-		'Flat-screen TV',
-		'Electric kettle',
-		'Wi-Fi / internet',
-		'Parking / street parking',
-		'Daily housekeeping',
-		'Elevator / lift',
-		'Air conditioning',
-		'Heating',
-		'Family rooms',
-		'Non-smoking rooms',
+		'Beer',
+		'Snacks',
+		'Main dishes',
+		'Complex lunches',
+		'Ukrainian cuisine',
+		'European cuisine',
+		'Grill dishes',
+		'Outdoor seating',
+		'Wi-Fi',
+		'TV / football viewing',
+		'Takeaway',
+		'Delivery listed publicly',
+		'Booking listed publicly',
 	];
 	protected readonly loadingCards = [1, 2, 3];
 	protected readonly rooms = this._roomService.rooms;
@@ -41,19 +41,19 @@ export class RoomsComponent {
 
 	protected readonly contactLinks: ContactLink[] = [
 		{
-			label: 'Call us',
-			href: 'tel:+380675101504',
-			description: '+38 067 510-15-04',
+			label: 'Call candidate',
+			href: 'tel:+380977993984',
+			description: '+380 97 799 3984',
 		},
 		{
 			label: 'Instagram',
-			href: 'https://www.instagram.com/hotel_passage/',
-			description: '@hotel_passage public listing',
+			href: 'https://www.instagram.com/nadsstavom/',
+			description: '@nadsstavom',
 		},
 		{
 			label: 'Map / address',
-			href: 'https://www.google.com/maps/search/?api=1&query=Torgovytsia%207%20Ternopil%20Hotel%20Passage',
-			description: 'Torgovytsia / Zhyvova 7, Ternopil',
+			href: 'https://maps.app.goo.gl/P3iGmyqzQQkoJRAeA',
+			description: 'Білецька, 33, Тернопіль',
 		},
 	];
 

@@ -1,97 +1,97 @@
 {
 	"hero": {
-		"title": "Returning guest advantages",
-		"subtitle": "Simple direct-booking recognition",
-		"description": "A modest loyalty page for guests who return to Hotel «Passage» and prefer to confirm stays directly by phone."
+		"title": "Постійним гостям",
+		"subtitle": "Просте повернення у паб",
+		"description": "Сторінка для гостей, які повертаються у Над Ставом і хочуть швидко уточнити стіл, меню або актуальні пропозиції."
 	},
 	"howItWorks": {
-		"title": "How it works",
+		"title": "Як це працює",
 		"steps": [
 			{
-				"title": "Call before your stay",
-				"description": "Use the primary phone number to request availability and mention that you have stayed before."
+				"title": "Зателефонуйте або напишіть",
+				"description": "Уточніть стіл, меню, футбол або компанію перед візитом."
 			},
 			{
-				"title": "Confirm the room category",
-				"description": "Reception can check current rooms, rates and bed setup for your dates."
+				"title": "Назвіть формат візиту",
+				"description": "Обід, пиво з друзями, футбол, тераса або невелика подія."
 			},
 			{
-				"title": "Keep terms simple",
-				"description": "Any repeat-guest advantage should be confirmed by the hotel before publication as an active offer."
+				"title": "Підтвердіть умови",
+				"description": "Активні знижки, ціни і бронювання мають підтверджуватися закладом."
 			}
 		]
 	},
 	"benefits": {
-		"title": "Possible advantages",
+		"title": "Можливі переваги",
 		"items": [
-			"Faster repeat booking by phone",
-			"Room category notes from past stays when available",
-			"Helpful arrival and parking guidance",
-			"Practical support for business and family stays"
+			"Швидше уточнення столу",
+			"Памʼять про типові замовлення, якщо ведеться закладом",
+			"Підказка щодо футболу або тераси",
+			"Менше непорозумінь з меню і цінами"
 		]
 	},
 	"earnRewards": {
-		"title": "Useful guest actions",
+		"title": "Корисні дії гостя",
 		"items": [
-			"Book directly by phone",
-			"Confirm arrival time early",
-			"Choose the right room category",
-			"Ask about current parking and Wi-Fi details"
+			"Уточнити стіл заздалегідь",
+			"Перевірити поточне меню",
+			"Запитати про комплексний обід",
+			"Підтвердити футбольну трансляцію"
 		]
 	},
 	"levels": {
-		"title": "Simple guest types",
+		"title": "Типи гостей",
 		"items": [
 			{
-				"name": "Transit guest",
-				"description": "For guests using Ternopil bus or rail connections.",
+				"name": "Обідній гість",
+				"description": "Для тих, хто приходить на комплексний обід.",
 				"benefits": [
-					"Quick availability check",
-					"Late-arrival guidance",
-					"Simple overnight stay focus"
+					"Поточний склад обіду",
+					"Орієнтир по часу",
+					"Швидкий маршрут"
 				]
 			},
 			{
-				"name": "Business guest",
-				"description": "For work trips and repeat weekday stays.",
+				"name": "Пивний вечір",
+				"description": "Для гостей, які йдуть на пиво і закуски.",
 				"benefits": [
-					"Desk/Wi-Fi questions confirmed early",
-					"Receipt/payment questions handled by phone",
-					"Clear check-out timing"
+					"Наявність сортів пива",
+					"Закуски до столу",
+					"Стіл за уточненням"
 				]
 			},
 			{
-				"name": "Family guest",
-				"description": "For families using triple or family room categories.",
+				"name": "Компанія",
+				"description": "Для друзів, футболу або невеликої події.",
 				"benefits": [
-					"Family room setup confirmed",
-					"Room view and bed details checked",
-					"Practical local orientation"
+					"Стіл заздалегідь",
+					"Умови події",
+					"Меню за домовленістю"
 				]
 			}
 		]
 	},
 	"specialDates": {
-		"title": "Before publishing discounts",
-		"description": "Treat this page as a conservative returning-guest structure until the client confirms active commercial terms.",
+		"title": "Перед публікацією акцій",
+		"description": "Не обіцяйте фіксовані знижки або бонуси без підтвердження власника.",
 		"items": [
-			"Do not promise fixed prices",
-			"Confirm all benefits by phone",
-			"Avoid complex points or cashback language"
+			"Не вказувати непідтверджені ціни",
+			"Не обіцяти cashback або points",
+			"Підтверджувати комерційні умови"
 		]
 	},
 	"terms": {
-		"title": "Terms",
+		"title": "Умови",
 		"items": [
-			"All advantages depend on room availability and current hotel policy.",
-			"Prices and active offers must be confirmed directly with reception.",
-			"This page does not replace an official booking confirmation."
+			"Усі переваги залежать від поточної політики закладу.",
+			"Меню, ціни, доставка і бронювання підтверджуються напряму.",
+			"Сторінка не замінює офіційне підтвердження столу або події."
 		]
 	},
 	"cta": {
-		"title": "Request availability",
-		"description": "Call reception to confirm current rooms and conditions for your dates.",
-		"label": "Call Hotel Passage",
-		"href": "tel:+380675101504"
+		"title": "Уточнити візит",
+		"description": "Зателефонуйте за найчастіше повтореним публічним номером-кандидатом або скористайтесь картою.",
+		"label": "Зателефонувати",
+		"href": "tel:+380977993984"
 	}
 }

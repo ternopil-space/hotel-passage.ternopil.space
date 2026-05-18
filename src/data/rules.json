@@ -1,52 +1,42 @@
 [
 	{
-		"category": "Stay",
-		"title": "Check-in from 14:00",
-		"description": "Public listings show check-in from 14:00 to 24:00. Please call reception if your arrival time may change."
+		"category": "Години",
+		"title": "11:00-23:00 щодня",
+		"description": "Публічні джерела вказують години роботи з 11:00 до 23:00 щодня; List.in.ua зазначає без перерви."
 	},
 	{
-		"category": "Stay",
-		"title": "Check-out until 12:00",
-		"description": "Check-out is listed until 12:00 unless another arrangement is confirmed directly with reception."
+		"category": "Контакти",
+		"title": "Телефон потребує підтвердження",
+		"description": "Публічні телефони конфліктують. Найчастіше повторений кандидат: +380 97 799 3984, але власник має підтвердити офіційний номер."
 	},
 	{
-		"category": "Reception",
-		"title": "Confirm current availability by phone",
-		"description": "Room rates, availability, bed setup and optional services can change by date, so confirm details by calling +38 067 510-15-04."
+		"category": "Меню",
+		"title": "Не публікувати точні ціни без меню власника",
+		"description": "Пиво, закуски, основні страви, комплексні обіди, українська, європейська кухня і гриль згадані публічно; точний список і ціни потребують підтвердження."
 	},
 	{
-		"category": "Rooms",
-		"title": "Respect quiet hours and other guests",
-		"description": "Please keep noise low in rooms and corridors, especially at night and early morning."
+		"category": "Бронювання",
+		"title": "Столи і події уточнюються",
+		"description": "Booking/reservation і події до 40 людей згадані публічно, але правила бронювання, депозит і місткість треба підтвердити."
 	},
 	{
-		"category": "Rooms",
-		"title": "Non-smoking rooms",
-		"description": "Public listings mention non-smoking rooms. Follow hotel rules and staff instructions about smoking areas."
+		"category": "Доставка",
+		"title": "Доставка і takeaway не деталізовані",
+		"description": "Delivery/takeaway згадані публічно, але платформа, зона доставки і поточні умови не підтверджені."
 	},
 	{
-		"category": "Rooms",
-		"title": "Guest responsibility for room condition",
-		"description": "Guests are responsible for the room, furniture, towels, keys and equipment during their stay."
+		"category": "Фото",
+		"title": "Не копіювати публічні фото без прав",
+		"description": "Фото з Google Maps, Facebook, Instagram, Restaurant Guru і каталогів можна використовувати тільки за наявності прав або дозволу."
 	},
 	{
-		"category": "Services",
-		"title": "Wi-Fi and parking details",
-		"description": "Wi-Fi and parking or street parking are listed publicly. Ask reception for current access and parking guidance."
+		"category": "Соцмережі",
+		"title": "Використовувати @nadsstavom",
+		"description": "@nadsstavom відповідає публічній інформації для Білецької, 33. @nad_stavom виглядає неоднозначним і не має використовуватись без підтвердження."
 	},
 	{
-		"category": "Meals",
-		"title": "Meals are not confirmed as a hotel restaurant service",
-		"description": "Hotels24 says meals are not provided at the hotel. Nearby food options are available; any breakfast-in-room or room-service references should be confirmed before publishing as active."
-	},
-	{
-		"category": "Families",
-		"title": "Family rooms by availability",
-		"description": "Family triple room categories are listed publicly. Confirm exact bed setup, room view and current rate when booking."
-	},
-	{
-		"category": "Pets",
-		"title": "Pet policy must be confirmed",
-		"description": "Pet rules are not confirmed enough for an official claim on this site. Please contact reception before arriving with a pet."
+		"category": "Доступність",
+		"title": "Доступність перевірити",
+		"description": "Restaurant Guru вказує not wheelchair accessible; перед офіційним твердженням потрібно підтвердити поточний стан у закладі."
 	}
 ]

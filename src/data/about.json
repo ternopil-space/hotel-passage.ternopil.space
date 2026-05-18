@@ -1,71 +1,71 @@
 {
-	"eyebrow": "About Hotel Passage",
-	"title": "A practical city hotel in Ternopil",
-	"description": "Hotel «Passage» is a compact Ternopil hotel near the central bus station, built around straightforward rooms, 24/7 reception and easy access for transit, business and family stays.",
+	"eyebrow": "Про Над Ставом",
+	"title": "Фірмовий паб біля Тернопільського ставу",
+	"description": "Над Ставом - тернопільський паб на Білецькій, 33, публічно описаний як фірмовий паб від Опілля з пивом, закусками, основними стравами і комплексними обідами.",
 	"tags": [
-		"Near central bus station",
-		"26 rooms",
-		"24/7 reception"
+		"Паб на Білецькій, 33",
+		"11:00-23:00 щодня",
+		"Пиво та кухня"
 	],
 	"intro": {
-		"title": "Convenient stays near Ternopil transport links",
-		"text": "Guests choose Passage Hotel for a clean, practical base close to the central bus station, with the railway station and central Ternopil roughly 1.5 km away according to public listings.",
+		"title": "Атмосферно, бо Над Ставом",
+		"text": "Публічні соцмережі позиціонують заклад як місце з багатьма видами пива, смачними закусками, основними стравами і комплексними обідами. Точне меню та ціни варто підтвердити у закладі.",
 		"image": "gallery/demo-1.webp"
 	},
 	"sections": [
 		{
-			"icon": "hotel",
-			"title": "Rooms",
+			"icon": "sports_bar",
+			"title": "Пиво",
 			"items": [
-				"26 rooms listed publicly",
-				"Double, twin, triple and family categories",
-				"Private bathroom with shower in listed room types",
-				"Air conditioning, TV and kettle in key room categories"
+				"Багато видів пива згадано в Instagram",
+				"Свіже пиво Опілля у публічних описах",
+				"Формат фірмового пабу",
+				"Пивна атмосфера без заяв про найкращість"
 			]
 		},
 		{
-			"icon": "support_agent",
-			"title": "Reception",
+			"icon": "restaurant",
+			"title": "Їжа",
 			"items": [
-				"24/7 reception listed by public directories",
-				"Check-in from 14:00",
-				"Check-out until 12:00",
-				"Book or request availability by phone"
+				"Закуски та основні страви",
+				"Українська та європейська кухня у публічних каталогах",
+				"Гриль-страви згадані в listings",
+				"Комплексні обіди згадані в Instagram"
 			]
 		},
 		{
 			"icon": "location_on",
-			"title": "Location",
+			"title": "Локація",
 			"items": [
-				"Torgovytsia / Zhyvova Street 7, Ternopil",
-				"Very close to the central bus station",
-				"Around 1.5 km to railway station and city center by public listing notes",
-				"Hydropark Topilche is a nearby city attraction"
+				"вулиця Білецька, 33, Тернопіль",
+				"Поруч із Тернопільським ставом у публічному позиціонуванні",
+				"Google Maps посилання надане окремо",
+				"Адреса у Facebook може показувати індекс 46000, інші джерела - 46003"
 			]
 		},
 		{
-			"icon": "cleaning_services",
-			"title": "Guest comfort",
+			"icon": "deck",
+			"title": "Формат",
 			"items": [
-				"Wi-Fi/internet access",
-				"Daily housekeeping",
-				"Heating and air conditioning",
-				"Family and non-smoking rooms listed publicly"
+				"Літній майданчик / тераса згадані публічно",
+				"Wi-Fi, TV і перегляд футболу",
+				"Takeaway, доставка і бронювання згадані публічно",
+				"Свята та події до 40 людей потрібно підтвердити"
 			]
 		},
 		{
-			"icon": "local_parking",
-			"title": "Practical services",
+			"icon": "info",
+			"title": "Що перевіряти",
 			"items": [
-				"Parking or street parking mentioned in public listings",
-				"Elevator/lift listed by aggregators",
-				"POS terminal mentioned in public listings",
-				"Meals are not presented as a confirmed hotel restaurant service"
+				"Основний телефон має конфлікти між джерелами",
+				"Email знайдений публічно, але потребує підтвердження",
+				"Не копіювати фото з каталогів без прав",
+				"Не використовувати @nad_stavom без підтвердження власника"
 			]
 		}
 	],
 	"service": {
-		"title": "Clear, modest hospitality",
-		"text": "Public review patterns describe Passage Hotel as clean, comfortable and convenient, with friendly reception. The site uses this as positioning, while precise prices, availability and optional services should be confirmed directly."
+		"title": "Обережна публікація фактів",
+		"text": "Сайт використовує тільки обережно сформульовану публічну інформацію. Непідтверджені телефони, ціни, повне меню, доставка і правила бронювання не подаються як офіційні гарантії."
 	}
 }
